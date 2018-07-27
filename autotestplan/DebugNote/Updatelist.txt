@@ -1,0 +1,63 @@
+"2018-2-7"
+1,"see excelDlg.cpp line 592:"
+"//2018-2-7 prepare to split pParamText->Result[0]"
+
+"2018-4-12"
+1,"add handler of when pParamText=0;"
+“if(!pParamText)?
+“{?
+?throw (CString*)_T("Please choose .pgs or .pds file in project folder\nAnd make sure add \"EnableRecord()\" and \"RecordCondition()\" in to project!");?
+“}?
+2,"change RMT_MAX_TESTPLAN_PARAM from 1024 to 2048"
+3,"change "OpenTestplanMap()" function to comfirm only open file map once."
+4,"optimize GetFileName() function"
+"2018-4-17"
+1,"change ParamStruct->Function and ParamStruct->SrcAndMethod lenth to 1, so these two are deprecated item"
+2,"change RMT_MAX_PIN from 100 to 128"
+3,"change TESTPLAN_MAX_STRING_LENTH from 256 to 64"
+4,"add MAX_PARAMETER_PER_FUNCTION for Cpgsparser class using"
+
+
+"2018-4-18"
+1,"fix a bug: GetOpenFileName() function may stop running at debugging mode, the method is change opfn to global variable"
+2,"delete MAX_STR, using MAX_TMP_STR_LENTH"
+3,"change MAX_FUNCTION from 128 to 32"
+4,"change PARAM_STR->Unit from 32 to 10,PARAM_STR->LowLimit/HighLimit from 32 to 16"
+5,"change ParamIndex[64] to ParamIndex which is deprecated"
+6,"change AddEditboxInfo() function to support show or not show date and time"																							 
+
+"2018-4-19"
+1,"add a new struct LIMITNAME_STR to record limit set name"
+
+"2018-4-27"
+1,"change ParamStruct->Parameter size to RMT_MAX_PARAMINDEX_STR_LENTH 10"
+2,"in mapmanage change <if(NULL==pTestPlanBaseMapFile> to <if(NULL==pTestPlanBaseMapFile&&NULL==TestPlan_MapFile)> to avoid handle leakage
+3,"deprecate TESTPLAN_MAX_STRING_LENTH"
+4,"change RMT_MAX_PIN from 128 to 64"
+
+"2018-5-14"
+1."find a bad bug at excelDlg.cpp, line 868: pTestProgramParser->GetAccuracy(strAccy,tszPinStat,pParamText);"
+2."debug context: eagle acco ai_parserparameter pinstat getaccuracy"
+
+"2018-6-21"
+1."fix AWG trigger point bug"
+
+
+"2018-7-2"
+1."delete ACCO AI parser condition GetMesaResult"
+
+"2018-7-16"
+1."add Coinitilize(NULL) function before create excel server"
+2."add auto code RecordCondition() support for acco project(test.cpp)"
+3."change ParamStruct and RecordCondition parameter to enable user defined infomation"
+
+"2018-7-17"
+1."repack software"
+
+"2018-7-23"
+1."fix Int2Rng() function bug, "B 69" bug"
+
+
+
+
+

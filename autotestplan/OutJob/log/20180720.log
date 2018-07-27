@@ -1,0 +1,226 @@
+163/188:12.6----success
+164/188:13.1----success
+165/188:13.2----success
+166/188:13.3----success
+167/188:13.4----success
+168/188:13.5----success
+169/188:13.6----fail
+170/188:14.1----success
+171/188:14.2----success
+172/188:14.3----success
+173/188:14.4----success
+174/188:14.5----success
+175/188:14.6----success
+176/188:14.7----success
+177/188:14.8----success
+178/188:14.9----success
+179/188:14.10----success
+180/188:15.1----success
+181/188:15.2----success
+182/188:15.3----success
+183/188:15.4----success
+184/188:15.5----success
+185/188:15.6----success
+186/188:15.7----success
+187/188:15.8----fail
+188/188:99.99----fail
+finish 188 of 188 paramenters.
+success:122
+fail:66
+<<<<success
+quit.
+quit, force to save
+------------------time line:above content are saved to log at 2018-07-20 11:20:21
+quit.
+quit, force to save
+------------------time line:above content are saved to log at 2018-07-20 13:11:58
+>>>>loading image file
+image file:
+C:\ets\apps\MPM3822C_Eagle_ENG\MPM3822C_Eagle_ENG.img
+<<<<success
+applying image file
+image file size:526686 Bytes
+<<<<success
+>>>>loading datasheet file
+datasheet file:
+C:\ets\apps\MPM3822C_Eagle_ENG\MPM3822C_Eagle_ENG.pds
+<<<<success
+>>>>analysis datasheet file
+program:MPM3822C
+
+function:16
+parameter:188
+<<<<success
+>>>>loading source file
+find source file:
+C:\ets\apps\MPM3822C_Eagle_ENG\MPM3822C_Eagle_ENG.cpp
+<<<<success
+>>>>analysising source file
+<<<<success
+>>>>searching testplan data
+<<<<success
+>>>>preparing datasheet info
+<<<<success
+>>>>creating excel server
+excel server process started
+<<<<success
+>>>>exporting testplan data
+1/188:1.1----fail
+2/188:1.2----fail
+3/188:1.3----fail
+4/188:1.4----fail
+5/188:1.5----fail
+6/188:1.6----fail
+7/188:1.7----fail
+8/188:1.8----fail
+9/188:1.9----fail
+10/188:1.10----fail
+11/188:1.11----fail
+12/188:1.12----fail
+13/188:1.13----fail
+14/188:1.14----fail
+15/188:1.15----fail
+16/188:1.16----fail
+17/188:1.17----fail
+18/188:1.18----fail
+19/188:1.19----fail
+20/188:2.1----fail
+21/188:2.2----fail
+22/188:2.3----fail
+23/188:2.4----fail
+24/188:2.5----fail
+25/188:2.6----fail
+26/188:2.7----fail
+27/188:2.8----fail
+28/188:2.9----fail
+29/188:2.10----fail
+30/188:3.1----success
+31/188:3.2----success
+32/188:3.3----success
+33/188:3.4----success
+34/188:3.5----success
+35/188:3.6----success
+36/188:3.7----success
+37/188:3.8----success
+38/188:3.9----success
+39/188:3.10----success
+40/188:3.11----success
+41/188:3.12----success
+42/188:3.13----success
+43/188:3.14----success
+44/188:3.15----success
+45/188:3.16----success
+46/188:3.17----fail
+47/188:4.1----success
+48/188:4.2----success
+49/188:4.3----success
+50/188:4.4----success
+51/188:4.5----success
+52/188:4.6----success
+53/188:4.7----success
+54/188:4.8----success
+55/188:4.9----success
+56/188:4.10----success
+57/188:4.11----success
+58/188:4.12----success
+59/188:4.13----success
+60/188:4.14----success
+61/188:4.15----success
+62/188:4.16----success
+63/188:4.17----success
+64/188:5.1----fail
+65/188:5.2----fail
+66/188:5.3----fail
+67/188:5.4----fail
+68/188:5.5----fail
+69/188:5.6----fail
+70/188:5.7----fail
+71/188:5.8----fail
+72/188:5.9----fail
+73/188:5.10----fail
+74/188:5.11----fail
+75/188:5.12----fail
+76/188:6.1----fail
+77/188:6.2----fail
+78/188:6.3----fail
+79/188:6.4----success
+80/188:6.5----success
+81/188:6.6----success
+82/188:6.7----success
+83/188:6.8----success
+84/188:6.9----success
+85/188:6.10----success
+86/188:6.11----success
+87/188:6.12----success
+88/188:6.13----success
+89/188:6.14----success
+90/188:6.15----success
+91/188:6.16----success
+92/188:6.17----success
+93/188:7.1----success
+94/188:7.2----success
+95/188:7.3----success
+96/188:7.4----success
+97/188:7.5----success
+98/188:7.6----success
+99/188:7.7----fail
+100/188:7.8----success
+101/188:7.9----success
+102/188:7.10----success
+103/188:7.11----fail
+104/188:7.12----success
+105/188:7.13----success
+106/188:7.14----fail
+107/188:8.1----success
+108/188:8.2----success
+109/188:8.3----success
+110/188:8.4----fail
+111/188:8.5----fail
+112/188:8.6----success
+113/188:8.7----fail
+114/188:8.8----success
+115/188:8.9----success
+116/188:8.10----success
+117/188:8.11----success
+118/188:8.12----fail
+119/188:8.13----success
+120/188:8.14----success
+121/188:8.15----fail
+122/188:8.16----success
+123/188:8.17----success
+124/188:8.18----fail
+125/188:9.1----success
+126/188:9.2----success
+127/188:9.3----success
+128/188:10.1----success
+129/188:10.2----success
+130/188:10.3----success
+131/188:10.4----fail
+132/188:10.5----fail
+133/188:10.6----fail
+134/188:10.7----fail
+135/188:10.8----fail
+136/188:10.9----fail
+137/188:10.10----success
+138/188:10.11----success
+139/188:10.12----success
+140/188:10.13----success
+141/188:10.14----fail
+142/188:10.15----fail
+143/188:10.16----fail
+144/188:11.1----success
+145/188:11.2----success
+146/188:11.3----success
+147/188:11.4----success
+148/188:11.5----success
+149/188:11.6----success
+150/188:11.7----success
+151/188:11.8----success
+152/188:11.9----success
+153/188:11.10----success
+154/188:11.11----success
+155/188:11.12----success
+156/188:11.13----success
+157/188:11.14----success
+158/188:12.1----success
+------------------time line:above content are saved to log at 2018-07-20 15:55:15

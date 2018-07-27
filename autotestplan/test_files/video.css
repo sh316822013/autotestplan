@@ -1,0 +1,90 @@
+TABLE.VideoThumbTable {
+	WIDTH: 120px
+}
+TABLE.VideoThumbTable TD.VideoThumb {
+	BORDER-BOTTOM: transparent 1px solid; POSITION: relative; BORDER-LEFT: transparent 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 0.95em; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 120px; PADDING-RIGHT: 0px; FONT-FAMILY: arial, sans-serif; FLOAT: left; HEIGHT: 90px; COLOR: #555; FONT-SIZE: 100%; VERTICAL-ALIGN: bottom; BORDER-TOP: transparent 1px solid; BORDER-RIGHT: transparent 1px solid; PADDING-TOP: 0px; border-image: initial
+}
+TABLE.VideoThumbTable TD.VideoThumbNoHover {
+	BORDER-BOTTOM: transparent 1px solid; POSITION: relative; BORDER-LEFT: transparent 1px solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 0.95em; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 120px; PADDING-RIGHT: 0px; FONT-FAMILY: arial, sans-serif; FLOAT: left; HEIGHT: 90px; COLOR: #555; FONT-SIZE: 100%; VERTICAL-ALIGN: bottom; BORDER-TOP: transparent 1px solid; BORDER-RIGHT: transparent 1px solid; PADDING-TOP: 0px; border-image: initial
+}
+TABLE.VideoThumbTable TD.VideoThumb:hover {
+	BACKGROUND-IMAGE: url(i/hover.png); BORDER-BOTTOM: #000 1px solid; BORDER-LEFT: #000 1px solid; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; BACKGROUND-REPEAT: repeat-x; BORDER-TOP: #000 1px solid; BORDER-RIGHT: #000 1px solid; PADDING-TOP: 0px
+}
+TD.ThumbText A {
+	LINE-HEIGHT: 1em
+}
+TD.VideoThumb A.ThumbImage {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline-block; PADDING-TOP: 0px
+}
+TD.VideoThumbNoHover A.ThumbImage {
+	POSITION: relative; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline-block; PADDING-TOP: 0px
+}
+TD.VideoThumb IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; DISPLAY: block; FLOAT: none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+TD.VideoThumbNoHover IMG {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; DISPLAY: block; FLOAT: none; BORDER-TOP: medium none; BORDER-RIGHT: medium none
+}
+TD.VideoThumb:hover .opacity {
+	POSITION: absolute; FILTER: alpha(opacity=70); BACKGROUND-COLOR: #000; WIDTH: 120px; DISPLAY: block; HEIGHT: 15px; TOP: 75px; RIGHT: 0px; opacity: 0.7
+}
+TD.VideoThumb .opacity {
+	TOP: 3px
+}
+TD.VideoThumbNoHover .opacity {
+	TOP: 3px
+}
+TD.VideoThumb .ThumbInfo {
+	POSITION: absolute; DISPLAY: none; TOP: 0px; CURSOR: pointer; RIGHT: 0px
+}
+TD.VideoThumbNoHover .ThumbInfo {
+	POSITION: absolute; DISPLAY: none; TOP: 0px; CURSOR: pointer; RIGHT: 0px
+}
+TD.VideoThumb:hover .ThumbInfo {
+	FILTER: alpha(opacity=100); DISPLAY: block; opacity: 1
+}
+TD.VideoThumb .ThumbInfo .Date {
+	MARGIN: 3px 3px 3px 0px; DISPLAY: block; FLOAT: right; COLOR: #ccc; CLEAR: both; FONT-SIZE: 10px
+}
+TD.VideoThumb .ThumbInfo .Time {
+	POSITION: relative; LINE-HEIGHT: 14px; MARGIN: 78px 3px 0px 0px; DISPLAY: block; FLOAT: right; COLOR: #fff; CLEAR: both; FONT-SIZE: 10px
+}
+DIV.video-thumbnail {
+	PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #1a1a1a; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: auto; PADDING-RIGHT: 0px; DISPLAY: inline-block; PADDING-TOP: 0px; box-model: border-box
+}
+DIV.video-image {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: inline; VERTICAL-ALIGN: middle; PADDING-TOP: 0px
+}
+DIV.video-play-button {
+	BACKGROUND-IMAGE: url(i/play-arrow.png); PADDING-BOTTOM: 0px; MARGIN: 5px 5px 5px 15px; PADDING-LEFT: 0px; WIDTH: 14px !important; PADDING-RIGHT: 0px; FLOAT: left; HEIGHT: 15px !important; PADDING-TOP: 0px
+}
+DIV.video-play-button:hover {
+	BACKGROUND-IMAGE: url(i/play-arrow-hover.png)
+}
+DIV.video-time {
+	PADDING-BOTTOM: 5px; MARGIN: 0px; PADDING-LEFT: 5px; PADDING-RIGHT: 10px; FLOAT: right; COLOR: #fff; FONT-SIZE: 10px; PADDING-TOP: 5px
+}
+.video-veil {
+	POSITION: absolute; FILTER: alpha(opacity=50); BACKGROUND-COLOR: #000000; TOP: 0px; CURSOR: "not-allowed"; LEFT: 0px; -moz-opacity: 0.50; opacity: 0.50
+}
+DIV#voverlay {
+	BACKGROUND-IMAGE: url(i/white-ws.png); BOX-SIZING: content-box !important; PADDING-BOTTOM: 35px; PADDING-LEFT: 35px; WIDTH: 862px; PADDING-RIGHT: 35px; DISPLAY: none; HEIGHT: 485px; PADDING-TOP: 35px
+}
+DIV#ioverlay {
+	BACKGROUND-IMAGE: url(i/white-ws.png); BOX-SIZING: content-box !important; PADDING-BOTTOM: 35px; PADDING-LEFT: 35px; WIDTH: 862px; PADDING-RIGHT: 35px; DISPLAY: none; HEIGHT: 485px; PADDING-TOP: 35px
+}
+DIV#voverlay .close {
+	BACKGROUND-IMAGE: url(i/apple-close.png); BOX-SIZING: content-box !important; POSITION: absolute; WIDTH: 28px; HEIGHT: 28px; TOP: 10px; CURSOR: pointer; RIGHT: 10px; opacity: 1
+}
+DIV#ioverlay .close {
+	BACKGROUND-IMAGE: url(i/apple-close.png); BOX-SIZING: content-box !important; POSITION: absolute; WIDTH: 28px; HEIGHT: 28px; TOP: 10px; CURSOR: pointer; RIGHT: 10px; opacity: 1
+}
+DIV#vcontainer {
+	BOX-SIZING: content-box !important; WIDTH: 100%; BACKGROUND: url(i/loading.gif) no-repeat 50% 50%; HEIGHT: 100%; TOP: 0px; LEFT: 0px
+}
+DIV.AlternateVideoLink {
+	Z-INDEX: 100; POSITION: absolute; PADDING-BOTTOM: 3px; BACKGROUND-COLOR: white; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; COLOR: black; FONT-SIZE: smaller; PADDING-TOP: 3px
+}
+DIV.AlternateVideoLink A {
+	COLOR: #999
+}

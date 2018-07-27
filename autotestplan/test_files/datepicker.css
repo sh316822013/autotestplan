@@ -1,0 +1,150 @@
+DIV.DES_CalPopup {
+	MARGIN-LEFT: 3px; VERTICAL-ALIGN: middle !important; MARGIN-RIGHT: 3px
+}
+DIV.DES_CalControl {
+	BORDER-BOTTOM: #666666 1px solid; BORDER-LEFT: #666666 1px solid; BACKGROUND-COLOR: white; BORDER-TOP: #666666 1px solid; BORDER-RIGHT: #666666 1px solid; PADDING-TOP: 5px; -moz-box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3); -webkit-box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3); box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.3); border-radius: 3px
+}
+DIV.DES_CalHeader {
+	TEXT-ALIGN: center
+}
+DIV.DES_CalHeaderRowsLeft2 {
+	MARGIN-LEFT: 15px
+}
+DIV.DES_CalHeaderRowsRight2 {
+	MARGIN-RIGHT: 15px
+}
+.DES_CalWeekRowsTable {
+	BORDER-COLLAPSE: separate !important; border-radius: 3px
+}
+TD.DES_CalDayHeaderCell {
+	TEXT-ALIGN: center
+}
+TD.DES_CalOtherMonthDay {
+	BORDER-BOTTOM-COLOR: #b6b6b6; TEXT-ALIGN: center; PADDING-BOTTOM: 4px; BACKGROUND-COLOR: #f0f0f0; BORDER-TOP-COLOR: #b6b6b6; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; COLOR: gray; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6; CURSOR: pointer; PADDING-TOP: 4px
+}
+TD.DES_CalDay {
+	BORDER-BOTTOM-COLOR: #b6b6b6; TEXT-ALIGN: center; PADDING-BOTTOM: 4px; BORDER-TOP-COLOR: #b6b6b6; PADDING-LEFT: 4px; PADDING-RIGHT: 4px; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6; CURSOR: pointer; PADDING-TOP: 4px
+}
+TD.DES_CalDay:hover {
+	TEXT-DECORATION: underline
+}
+TD.DES_CalToday {
+	BACKGROUND-COLOR: #fbf0e7
+}
+TD.DES_CalSelected {
+	BACKGROUND-COLOR: #ffe2ce; FONT-SIZE: larger; FONT-WEIGHT: 600
+}
+DIV.DES_MYPControl {
+	BORDER-BOTTOM: #666666 1px solid; BORDER-LEFT: #666666 1px solid; PADDING-BOTTOM: 8px; BACKGROUND-COLOR: #ffffff; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; BORDER-TOP: #666666 1px solid; BORDER-RIGHT: #666666 1px solid; PADDING-TOP: 8px; -moz-box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3); -webkit-box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3); box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3); border-radius: 3px
+}
+TABLE.DES_MYPMonthTable {
+	WIDTH: 95% !important; MARGIN-RIGHT: 5px
+}
+TABLE.DES_MYPYearTable {
+	WIDTH: 95% !important; MARGIN-LEFT: 5px
+}
+TD.DES_MYPMonthCell {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 3px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; CURSOR: pointer; PADDING-TOP: 3px
+}
+TD.DES_MYPSelectedMonthCell {
+	TEXT-ALIGN: left; PADDING-BOTTOM: 3px; BACKGROUND-COLOR: #ffe2ce; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; CURSOR: pointer; PADDING-TOP: 3px
+}
+TD.DES_MYPYearCell {
+	TEXT-ALIGN: right; PADDING-BOTTOM: 3px; PADDING-LEFT: 3px; WIDTH: 45% !important; PADDING-RIGHT: 3px; CURSOR: pointer; PADDING-TOP: 3px
+}
+TD.DES_MYPSelectedYearCell {
+	PADDING-BOTTOM: 3px; BACKGROUND-COLOR: #ffe2ce; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; CURSOR: pointer; PADDING-TOP: 3px
+}
+DIV.DESMenu {
+	BORDER-BOTTOM: #666666 1px solid; BORDER-LEFT: #666666 1px solid; PADDING-BOTTOM: 8px; BACKGROUND-COLOR: #ffffff; PADDING-LEFT: 2px; PADDING-RIGHT: 2px; BORDER-TOP: #666666 1px solid; BORDER-RIGHT: #666666 1px solid; PADDING-TOP: 8px; -moz-box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3); -webkit-box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3); box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.3); border-radius: 3px
+}
+DIV.DESMenuCommand {
+	CURSOR: pointer
+}
+DIV.DESMenuMouseOver {
+	BACKGROUND-COLOR: #fbf0e7
+}
+.SD_TimeRow {
+	
+}
+.SD_TimeRow TD {
+	
+}
+.SD_TimeRowAlt {
+	
+}
+.SD_TimeRowAlt TD {
+	
+}
+.EDFMain {
+	BORDER-BOTTOM: black 1px solid; BORDER-LEFT: black 1px solid; PADDING-BOTTOM: 5px; BACKGROUND-COLOR: aliceblue; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; FONT-FAMILY: Arial; COLOR: black; FONT-SIZE: 11pt; BORDER-TOP: black 1px solid; BORDER-RIGHT: black 1px solid; PADDING-TOP: 5px
+}
+.EDFMain TR {
+	FONT-FAMILY: Arial; COLOR: black; FONT-SIZE: 11pt
+}
+.EDFTitle {
+	BORDER-BOTTOM: black 1px solid; BACKGROUND-COLOR: white; BORDER-TOP: black 1px solid
+}
+.EDFTitle TR {
+	FONT-FAMILY: Arial; COLOR: black; FONT-SIZE: 11pt
+}
+.MSCMessageCenter {
+	BORDER-BOTTOM: gray double; BORDER-LEFT: gray double; BORDER-TOP: gray double; BORDER-RIGHT: gray double
+}
+.MSCMessageCenterTitle {
+	FONT-FAMILY: Arial; COLOR: blue; FONT-SIZE: 11pt
+}
+.MSCMessageCenterBody {
+	PADDING-BOTTOM: 5px; PADDING-LEFT: 5px; PADDING-RIGHT: 5px; PADDING-TOP: 5px
+}
+.MSCMessageCenterNextClick {
+	
+}
+.TMTBHelpButton {
+	
+}
+.TMTBHelpButtonPressed {
+	
+}
+.TMTBHelpButton IMG {
+	BACKGROUND-COLOR: transparent; MARGIN: 0px
+}
+.TMTBHelpButtonPressed IMG {
+	BACKGROUND-COLOR: transparent; MARGIN: 0px
+}
+.TPTimePicker {
+	BORDER-BOTTOM: gray 1px solid; BORDER-LEFT: gray 1px solid; BACKGROUND-COLOR: white; FONT-FAMILY: Arial; FONT-SIZE: 11pt; BORDER-TOP: gray 1px solid; BORDER-RIGHT: gray 1px solid
+}
+.TPTimePicker TABLE {
+	BACKGROUND-COLOR: white; FONT-FAMILY: Arial; FONT-SIZE: 11pt
+}
+.TPTimePicker A {
+	COLOR: black; TEXT-DECORATION: none
+}
+.TPTimeSpan {
+	CURSOR: hand
+}
+.TPSelectedTimeSpan {
+	BACKGROUND-COLOR: gold; CURSOR: hand
+}
+.TPFiller {
+	COLOR: gray
+}
+.TPTitle {
+	BORDER-BOTTOM: black 1px solid; BACKGROUND-COLOR: lightblue; BORDER-TOP: black 1px solid
+}
+.TPHeader {
+	BACKGROUND-COLOR: transparent
+}
+.TPFooterButton {
+	BORDER-BOTTOM: #e0e0e0 thin outset; BORDER-LEFT: #e0e0e0 thin outset; BACKGROUND-COLOR: lightblue; FONT-FAMILY: Arial; COLOR: black; FONT-SIZE: 11pt; BORDER-TOP: #e0e0e0 thin outset; CURSOR: pointer; BORDER-RIGHT: #e0e0e0 thin outset
+}
+.TPFooterButtonPressed {
+	BORDER-BOTTOM: #e0e0e0 thin inset; BORDER-LEFT: #e0e0e0 thin inset; BACKGROUND-COLOR: lightblue; FONT-FAMILY: Arial; COLOR: black; FONT-SIZE: 11pt; BORDER-TOP: #e0e0e0 thin inset; CURSOR: hand; BORDER-RIGHT: #e0e0e0 thin inset
+}
+.TPTogglePicker {
+	
+}
+.TPTogglePickerPressed {
+	
+}

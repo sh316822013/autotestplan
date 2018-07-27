@@ -1,0 +1,84 @@
+159/188:12.2----success
+160/188:12.3----success
+161/188:12.4----success
+162/188:12.5----success
+163/188:12.6----success
+164/188:13.1----success
+165/188:13.2----success
+166/188:13.3----success
+167/188:13.4----success
+168/188:13.5----success
+169/188:13.6----fail
+170/188:14.1----success
+171/188:14.2----success
+172/188:14.3----success
+173/188:14.4----success
+174/188:14.5----success
+175/188:14.6----success
+176/188:14.7----success
+177/188:14.8----success
+178/188:14.9----success
+179/188:14.10----success
+180/188:15.1----success
+181/188:15.2----success
+182/188:15.3----success
+183/188:15.4----success
+184/188:15.5----success
+185/188:15.6----success
+186/188:15.7----success
+187/188:15.8----fail
+188/188:99.99----fail
+finish 188 of 188 paramenters.
+success:122
+fail:66
+<<<<success
+>>>>loading source file
+<<<<success
+>>>>check project type
+not supported project type
+<<<<fail
+>>>>loading source file
+<<<<success
+>>>>check project type
+not supported project type
+<<<<fail
+>>>>loading source file
+<<<<success
+>>>>check project type
+not supported project type
+<<<<fail
+>>>>loading datasheet file
+datasheet file:
+C:\ets\apps\MPQ2645R1_SPU_Float_ENG\MPQ2645R1_SPU_Float_ENG.pds
+<<<<success
+>>>>analysis datasheet file
+program:MPQ2645R1_SPU_Float_ENG
+
+function:25
+parameter:3954
+<<<<success
+>>>>loading source file
+find source file:
+C:\ets\apps\MPQ2645R1_SPU_Float_ENG\MPQ2645R1_SPU_Float_ENG.cpp
+<<<<success
+>>>>analysising source file
+<<<<success
+>>>>loading source file
+<<<<success
+>>>>check project type
+not supported project type
+<<<<fail
+>>>>loading source file
+file not selected
+<<<<fail
+quit.
+quit, force to save
+------------------time line:above content are saved to log at 2018-07-23 07:39:01
+The RPC server is unavailable.
+
+------------------time line:above content are saved to log at 2018-07-23 07:39:02
+exception type:COleException, force to save
+------------------time line:above content are saved to log at 2018-07-23 07:39:02
+quit.
+quit, force to save
+------------------time line:above content are saved to log at 2018-07-23 11:33:49

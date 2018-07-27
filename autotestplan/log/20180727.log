@@ -1,0 +1,46 @@
+quit.
+quit, force to save
+------------------time line:above content are saved to log at 2018-07-27 19:16:53
+>>>>loading datasheet file
+file not selected
+>>>>loading image file
+image file:
+C:\ets\app\MPQ2645R1_SPU_Float_ENG\MPQ2645R1_SPU_Float_ENG.img
+<<<<success
+applying image file
+image file size:3866646 Bytes
+<<<<success
+>>>>loading image file
+image file:
+C:\ets\app\MPQ2645R1_SPU_Float_ENG\MPQ2645R1_SPU_Float_ENG.img
+<<<<success
+applying image file
+image file size:3866646 Bytes
+<<<<success
+>>>>loading datasheet file
+datasheet file:
+C:\ets\app\MPQ2645R1_SPU_Float_ENG\MPQ2645R1_SPU_Float_ENG.pds
+<<<<success
+>>>>analysis datasheet file
+program:MPQ2645R1_SPU_Float_ENG
+
+function:25
+parameter:3954
+<<<<success
+>>>>loading source file
+find source file:
+C:\ets\app\MPQ2645R1_SPU_Float_ENG\MPQ2645R1_SPU_Float_ENG.cpp
+<<<<success
+>>>>analysising source file
+<<<<success
+>>>>searching testplan data
+<<<<success
+>>>>preparing datasheet info
+<<<<success
+>>>>creating excel server
+Error on CreateDispatch():-2147221005(800401f3)
+creat excel server failed, make sure this computer has installed excel software
+<<<<fail
+quit.
+quit, force to save
+------------------time line:above content are saved to log at 2018-07-27 19:23:47

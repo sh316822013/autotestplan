@@ -1,0 +1,17 @@
+
+//Below code are added by autotestplan software
+//comment "#define	_USE_TESTPLAN_EXPORT_TOOL" to disable autotestplan function
+#define	_USE_TESTPLAN_EXPORT_TOOL
+#ifdef		_USE_TESTPLAN_EXPORT_TOOL
+#pragma comment(lib,"EagleRmthdl.lib")
+extern int EnableRecord(void);
+extern int RecordCondition(LPTSTR lpszIndex);
+extern int SaveImage(void);
+
+#else
+#define EnableRecord() 
+#define RecordCondition() 
+#define SaveImage()
+#endif
+//end of code added by autotestplan software
+

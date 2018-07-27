@@ -1,0 +1,2574 @@
+.k-theme-test-class {
+	opacity: 0
+}
+.ktb-theme-id-default {
+	opacity: 0
+}
+.ktb-var-accent {
+	COLOR: #f35800
+}
+.ktb-var-base {
+	COLOR: #e9e9e9
+}
+.ktb-var-background {
+	COLOR: #fff
+}
+.ktb-var-border-radius {
+	border-radius: 4px
+}
+.ktb-var-normal-background {
+	COLOR: #fff
+}
+.ktb-var-normal-gradient {
+	BACKGROUND-IMAGE: url(textures/highlight.png)
+}
+.ktb-var-normal-text-color {
+	COLOR: #2e2e2e
+}
+.ktb-var-hover-background {
+	COLOR: #bcb4b0
+}
+.ktb-var-hover-gradient {
+	BACKGROUND-IMAGE: url(textures/highlight.png)
+}
+.ktb-var-hover-text-color {
+	COLOR: #2e2e2e
+}
+.ktb-var-selected-background {
+	COLOR: #f35800
+}
+.ktb-var-selected-gradient {
+	BACKGROUND-IMAGE: url(textures/highlight.png)
+}
+.ktb-var-selected-text-color {
+	COLOR: #fff
+}
+.ktb-var-error {
+	COLOR: #ffe0d9
+}
+.ktb-var-warning {
+	COLOR: #ffe79e
+}
+.ktb-var-success {
+	COLOR: #eaf7ec
+}
+.ktb-var-info {
+	COLOR: #e5f5fa
+}
+.ktb-var-series-a {
+	COLOR: #ff6800
+}
+.ktb-var-series-b {
+	COLOR: #a0a700
+}
+.ktb-var-series-c {
+	COLOR: #ff8d00
+}
+.ktb-var-series-d {
+	COLOR: #678900
+}
+.ktb-var-series-e {
+	COLOR: #ffb53c
+}
+.ktb-var-series-f {
+	COLOR: #396000
+}
+.k-grid-norecords-template {
+	BORDER-BOTTOM: #d5d5d5 1px solid; BORDER-LEFT: #d5d5d5 1px solid; BACKGROUND-COLOR: #fff; BORDER-TOP: #d5d5d5 1px solid; BORDER-RIGHT: #d5d5d5 1px solid
+}
+.k-in {
+	BORDER-BOTTOM-COLOR: transparent; BORDER-TOP-COLOR: transparent; BORDER-RIGHT-COLOR: transparent; BORDER-LEFT-COLOR: transparent
+}
+.k-item {
+	BORDER-BOTTOM-COLOR: transparent; BORDER-TOP-COLOR: transparent; BORDER-RIGHT-COLOR: transparent; BORDER-LEFT-COLOR: transparent
+}
+.k-window-action {
+	BORDER-BOTTOM-COLOR: transparent; BORDER-TOP-COLOR: transparent; BORDER-RIGHT-COLOR: transparent; BORDER-LEFT-COLOR: transparent
+}
+.k-block {
+	BACKGROUND-COLOR: #fff
+}
+.k-widget {
+	BACKGROUND-COLOR: #fff
+}
+.k-autocomplete {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-block {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-button-group .k-tool {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-calendar TH {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-colorpicker .k-i-arrow-s {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-content {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-dropdown-wrap {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-dropzone-active {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-editable-area {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-filter-row > TH {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-footer-template TD {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-grid TD {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-grid TD.k-state-selected {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-grid-content-locked {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-grid-footer {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-grid-footer-locked {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-grid-footer-wrap {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-grid-header {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-grid-header-locked {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-grid-header-wrap {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-group {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-group-footer TD {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-grouping-header {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-grouping-header .k-group-indicator {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-header {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-input {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-pager-refresh {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-pager-wrap {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-pager-wrap .k-link {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-panel > .k-item > .k-link {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-panelbar .k-content {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-panelbar .k-panel {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-panelbar > .k-item > .k-link {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-separator {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-slider-track {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-splitbar {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-state-default {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-state-default .k-select {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-state-disabled {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-textbox {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-textbox > INPUT {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-tiles {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-toolbar {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-tooltip {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-treemap-tile {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-upload-files {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-widget {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-calendar TH {
+	BACKGROUND-COLOR: #f5f5f5
+}
+.k-dropzone-hovered {
+	BACKGROUND-COLOR: #f5f5f5
+}
+.k-footer-template TD {
+	BACKGROUND-COLOR: #f5f5f5
+}
+.k-grid-footer {
+	BACKGROUND-COLOR: #f5f5f5
+}
+.k-group {
+	BACKGROUND-COLOR: #f5f5f5
+}
+.k-group-footer TD {
+	BACKGROUND-COLOR: #f5f5f5
+}
+.k-grouping-header {
+	BACKGROUND-COLOR: #f5f5f5
+}
+.k-pager-wrap {
+	BACKGROUND-COLOR: #f5f5f5
+}
+.k-toolbar {
+	BACKGROUND-COLOR: #f5f5f5
+}
+.k-widget .k-status {
+	BACKGROUND-COLOR: #f5f5f5
+}
+.k-popup.k-widget {
+	BACKGROUND-COLOR: #f5f5f5
+}
+.k-grouping-row TD {
+	BACKGROUND-COLOR: #eae8e8
+}
+.k-resize-handle-inner {
+	BACKGROUND-COLOR: #eae8e8
+}
+TD.k-group-cell {
+	BACKGROUND-COLOR: #eae8e8
+}
+.k-list-container {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BACKGROUND-COLOR: #e9e9e9; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-content {
+	BACKGROUND-COLOR: #fff
+}
+.k-editable-area {
+	BACKGROUND-COLOR: #fff
+}
+.k-panel > LI.k-item {
+	BACKGROUND-COLOR: #fff
+}
+.k-panelbar > LI.k-item {
+	BACKGROUND-COLOR: #fff
+}
+.k-tiles {
+	BACKGROUND-COLOR: #fff
+}
+.k-alt {
+	BACKGROUND-COLOR: #f1f1f1
+}
+.k-pivot-layout > TBODY > TR:first-child > TD:first-child {
+	BACKGROUND-COLOR: #f1f1f1
+}
+.k-alt.k-resource {
+	BACKGROUND-COLOR: #f1f1f1
+}
+.k-separator {
+	BACKGROUND-COLOR: #f1f1f1
+}
+.k-alt.k-header {
+	BACKGROUND-COLOR: #dcdcdc
+}
+.k-pivot-rowheaders .k-alt .k-alt {
+	BACKGROUND-COLOR: #dcdcdc
+}
+.k-header.k-autocomplete {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BACKGROUND-COLOR: #e9e9e9; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-state-active.k-dropdown-wrap {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BACKGROUND-COLOR: #e9e9e9; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-state-active.k-numeric-wrap {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BACKGROUND-COLOR: #e9e9e9; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-state-active.k-picker-wrap {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BACKGROUND-COLOR: #e9e9e9; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-textbox {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BACKGROUND-COLOR: #e9e9e9; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-autocomplete .k-input {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-state-focused.k-autocomplete .k-input {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-dropdown-wrap .k-input {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-state-focused.k-dropdown-wrap .k-input {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-state-focused.k-numeric-wrap .k-input {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-state-focused.k-picker-wrap .k-input {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-textbox > INPUT {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-textbox > INPUT {
+	BACKGROUND: 0px 0px
+}
+INPUT.k-textbox {
+	BACKGROUND: 0px 0px
+}
+INPUT.k-textbox:hover {
+	BACKGROUND: 0px 0px
+}
+TEXTAREA.k-textbox {
+	BACKGROUND: 0px 0px
+}
+TEXTAREA.k-textbox:hover {
+	BACKGROUND: 0px 0px
+}
+.k-input {
+	BACKGROUND-COLOR: #fff; COLOR: #2e2e2e
+}
+.k-multiselect-wrap {
+	BACKGROUND-COLOR: #fff; COLOR: #2e2e2e
+}
+.k-textbox > INPUT {
+	BACKGROUND-COLOR: #fff; COLOR: #2e2e2e
+}
+INPUT.k-textbox {
+	BACKGROUND-COLOR: #fff; COLOR: #2e2e2e
+}
+INPUT.k-textbox:hover {
+	BACKGROUND-COLOR: #fff; COLOR: #2e2e2e
+}
+TEXTAREA.k-textbox {
+	BACKGROUND-COLOR: #fff; COLOR: #2e2e2e
+}
+TEXTAREA.k-textbox:hover {
+	BACKGROUND-COLOR: #fff; COLOR: #2e2e2e
+}
+[readonly].k-input {
+	BACKGROUND-COLOR: #fff; COLOR: #2e2e2e
+}
+.k-block {
+	COLOR: #2e2e2e
+}
+.k-content {
+	COLOR: #2e2e2e
+}
+.k-dropdown .k-input {
+	COLOR: #2e2e2e
+}
+.k-popup {
+	COLOR: #2e2e2e
+}
+.k-toolbar {
+	COLOR: #2e2e2e
+}
+.k-widget {
+	COLOR: #2e2e2e
+}
+.k-inverse {
+	COLOR: #fff
+}
+.k-block {
+	COLOR: #313131
+}
+.k-link:link {
+	COLOR: #2e2e2e
+}
+.k-link:visited {
+	COLOR: #2e2e2e
+}
+.k-state-hover.k-nav-current .k-link {
+	COLOR: #2e2e2e
+}
+.k-panelbar > LI > .k-link {
+	COLOR: #2e2e2e
+}
+.k-tabstrip-items .k-link {
+	COLOR: #2e2e2e
+}
+.k-grid-header .k-header > .k-link {
+	COLOR: #313131
+}
+.k-header {
+	COLOR: #313131
+}
+.k-treemap-title {
+	COLOR: #313131
+}
+.k-autocomplete {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BACKGROUND-COLOR: #eae8e8; BACKGROUND-POSITION: 50% 50%
+}
+.k-button {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BACKGROUND-COLOR: #eae8e8; BACKGROUND-POSITION: 50% 50%
+}
+.k-draghandle {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BACKGROUND-COLOR: #eae8e8; BACKGROUND-POSITION: 50% 50%
+}
+.k-dropdown-wrap {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BACKGROUND-COLOR: #eae8e8; BACKGROUND-POSITION: 50% 50%
+}
+.k-grid-header {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BACKGROUND-COLOR: #eae8e8; BACKGROUND-POSITION: 50% 50%
+}
+.k-grouping-header {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BACKGROUND-COLOR: #eae8e8; BACKGROUND-POSITION: 50% 50%
+}
+.k-header {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BACKGROUND-COLOR: #eae8e8; BACKGROUND-POSITION: 50% 50%
+}
+.k-numeric-wrap {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BACKGROUND-COLOR: #eae8e8; BACKGROUND-POSITION: 50% 50%
+}
+.k-pager-wrap {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BACKGROUND-COLOR: #eae8e8; BACKGROUND-POSITION: 50% 50%
+}
+.k-panelbar .k-tabstrip-items .k-item {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BACKGROUND-COLOR: #eae8e8; BACKGROUND-POSITION: 50% 50%
+}
+.k-picker-wrap {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BACKGROUND-COLOR: #eae8e8; BACKGROUND-POSITION: 50% 50%
+}
+.k-progressbar {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BACKGROUND-COLOR: #eae8e8; BACKGROUND-POSITION: 50% 50%
+}
+.k-state-highlight {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BACKGROUND-COLOR: #eae8e8; BACKGROUND-POSITION: 50% 50%
+}
+.k-tabstrip-items .k-item {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BACKGROUND-COLOR: #eae8e8; BACKGROUND-POSITION: 50% 50%
+}
+.k-textbox {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BACKGROUND-COLOR: #eae8e8; BACKGROUND-POSITION: 50% 50%
+}
+.k-toolbar {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BACKGROUND-COLOR: #eae8e8; BACKGROUND-POSITION: 50% 50%
+}
+.km-pane-wrapper > .km-pane > .km-view > .km-content {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BACKGROUND-COLOR: #eae8e8; BACKGROUND-POSITION: 50% 50%
+}
+.k-block {
+	BACKGROUND-COLOR: #eae8e8
+}
+.k-button {
+	BACKGROUND-COLOR: #eae8e8
+}
+.k-draghandle {
+	BACKGROUND-COLOR: #eae8e8
+}
+.k-grid-header {
+	BACKGROUND-COLOR: #eae8e8
+}
+.k-grouping-header {
+	BACKGROUND-COLOR: #eae8e8
+}
+.k-header {
+	BACKGROUND-COLOR: #eae8e8
+}
+.k-pager-wrap {
+	BACKGROUND-COLOR: #eae8e8
+}
+.k-toolbar {
+	BACKGROUND-COLOR: #eae8e8
+}
+.k-treemap-tile {
+	BACKGROUND-COLOR: #eae8e8
+}
+HTML .km-pane-wrapper .k-header {
+	BACKGROUND-COLOR: #eae8e8
+}
+.k-column-menu .k-state-active .k-sprite {
+	opacity: 1
+}
+.k-column-menu .k-state-hover .k-sprite {
+	opacity: 1
+}
+.k-icon:hover {
+	opacity: 1
+}
+.k-pager-numbers .k-current-page .k-link:hover:after {
+	opacity: 1
+}
+.k-scheduler-toolbar > UL.k-scheduler-views > LI.k-state-hover.k-current-view > .k-link:after {
+	opacity: 1
+}
+.k-state-focused .k-icon {
+	opacity: 1
+}
+.k-state-hover .k-icon {
+	opacity: 1
+}
+.k-state-selected .k-icon {
+	opacity: 1
+}
+.k-column-menu .k-sprite {
+	opacity: .9
+}
+.k-icon {
+	opacity: .9
+}
+.k-pager-numbers .k-current-page .k-link:after {
+	opacity: .9
+}
+.k-scheduler-toolbar > UL.k-scheduler-views > LI.k-current-view > .k-link:after {
+	opacity: .9
+}
+.k-state-disabled .k-icon {
+	opacity: .9
+}
+.k-tool {
+	BORDER-BOTTOM-COLOR: transparent; BORDER-TOP-COLOR: transparent; BORDER-RIGHT-COLOR: transparent; BORDER-LEFT-COLOR: transparent
+}
+.k-column-menu .k-sprite {
+	BACKGROUND-IMAGE: url(Default/sprite.png); BORDER-BOTTOM-COLOR: transparent; BORDER-TOP-COLOR: transparent; BORDER-RIGHT-COLOR: transparent; BORDER-LEFT-COLOR: transparent
+}
+.k-drop-hint {
+	BACKGROUND-IMAGE: url(Default/sprite.png); BORDER-BOTTOM-COLOR: transparent; BORDER-TOP-COLOR: transparent; BORDER-RIGHT-COLOR: transparent; BORDER-LEFT-COLOR: transparent
+}
+.k-gantt-views > .k-current-view > .k-link:after {
+	BACKGROUND-IMAGE: url(Default/sprite.png); BORDER-BOTTOM-COLOR: transparent; BORDER-TOP-COLOR: transparent; BORDER-RIGHT-COLOR: transparent; BORDER-LEFT-COLOR: transparent
+}
+.k-grid-mobile .k-resize-handle-inner:after {
+	BACKGROUND-IMAGE: url(Default/sprite.png); BORDER-BOTTOM-COLOR: transparent; BORDER-TOP-COLOR: transparent; BORDER-RIGHT-COLOR: transparent; BORDER-LEFT-COLOR: transparent
+}
+.k-grid-mobile .k-resize-handle-inner:before {
+	BACKGROUND-IMAGE: url(Default/sprite.png); BORDER-BOTTOM-COLOR: transparent; BORDER-TOP-COLOR: transparent; BORDER-RIGHT-COLOR: transparent; BORDER-LEFT-COLOR: transparent
+}
+.k-grouping-dropclue {
+	BACKGROUND-IMAGE: url(Default/sprite.png); BORDER-BOTTOM-COLOR: transparent; BORDER-TOP-COLOR: transparent; BORDER-RIGHT-COLOR: transparent; BORDER-LEFT-COLOR: transparent
+}
+.k-icon {
+	BACKGROUND-IMAGE: url(Default/sprite.png); BORDER-BOTTOM-COLOR: transparent; BORDER-TOP-COLOR: transparent; BORDER-RIGHT-COLOR: transparent; BORDER-LEFT-COLOR: transparent
+}
+.k-pager-numbers .k-current-page .k-link:after {
+	BACKGROUND-IMAGE: url(Default/sprite.png); BORDER-BOTTOM-COLOR: transparent; BORDER-TOP-COLOR: transparent; BORDER-RIGHT-COLOR: transparent; BORDER-LEFT-COLOR: transparent
+}
+.k-scheduler-toolbar > UL.k-scheduler-views > LI.k-current-view > .k-link:after {
+	BACKGROUND-IMAGE: url(Default/sprite.png); BORDER-BOTTOM-COLOR: transparent; BORDER-TOP-COLOR: transparent; BORDER-RIGHT-COLOR: transparent; BORDER-LEFT-COLOR: transparent
+}
+.k-tool-icon {
+	BACKGROUND-IMAGE: url(Default/sprite.png); BORDER-BOTTOM-COLOR: transparent; BORDER-TOP-COLOR: transparent; BORDER-RIGHT-COLOR: transparent; BORDER-LEFT-COLOR: transparent
+}
+.k-loading {
+	BACKGROUND-IMAGE: url(Default/loading.gif); BACKGROUND-POSITION: 50% 50%
+}
+.k-state-hover .k-loading {
+	BACKGROUND-IMAGE: url(Default/loading.gif); BACKGROUND-POSITION: 50% 50%
+}
+.k-loading-image {
+	BACKGROUND-IMAGE: url(Default/loading-image.gif)
+}
+.k-loading-color {
+	BACKGROUND-COLOR: #fff
+}
+.k-button {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BACKGROUND-COLOR: #e9e9e9; BORDER-TOP-COLOR: #c5c5c5; COLOR: #2e2e2e; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-draghandle {
+	BORDER-BOTTOM-COLOR: #a0dba9; BACKGROUND-COLOR: #fff; BORDER-TOP-COLOR: #a0dba9; BORDER-RIGHT-COLOR: #a0dba9; BORDER-LEFT-COLOR: #a0dba9; -webkit-box-shadow: none; box-shadow: none
+}
+.k-draghandle:hover {
+	BORDER-BOTTOM-COLOR: #95d79f; BACKGROUND-COLOR: #bbb4b1; BORDER-TOP-COLOR: #95d79f; BORDER-RIGHT-COLOR: #95d79f; BORDER-LEFT-COLOR: #95d79f; -webkit-box-shadow: none; box-shadow: none
+}
+.k-scheduler {
+	BACKGROUND-COLOR: #fff; COLOR: #2e2e2e
+}
+.k-scheduler-layout {
+	COLOR: #2e2e2e
+}
+.k-scheduler-datecolumn {
+	BACKGROUND-COLOR: #fff; COLOR: #2e2e2e
+}
+.k-scheduler-groupcolumn {
+	BACKGROUND-COLOR: #fff; COLOR: #2e2e2e
+}
+.k-scheduler-header TH {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-scheduler-header-wrap {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-scheduler-table TD {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-scheduler-times {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-scheduler-times TH {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-scheduler-times TR {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-nonwork-hour {
+	BACKGROUND-COLOR: #f1f1f1
+}
+.k-gantt .k-nonwork-hour {
+	
+}
+.k-gantt .k-nonwork-hour.k-header {
+	
+}
+.k-scheduler-table .k-today {
+	BACKGROUND-COLOR: #f8f8f8
+}
+.k-today > .k-scheduler-datecolumn {
+	BACKGROUND-COLOR: #f8f8f8
+}
+.k-today > .k-scheduler-groupcolumn {
+	BACKGROUND-COLOR: #f8f8f8
+}
+.k-scheduler-now-arrow {
+	BORDER-LEFT-COLOR: #ff6745
+}
+.k-scheduler-now-line {
+	BACKGROUND-COLOR: #ff6745
+}
+.k-event {
+	BORDER-BOTTOM-COLOR: #ffc09c; BORDER-TOP-COLOR: #ffc09c; BACKGROUND: url(textures/highlight.png) #ff8f50 repeat-x 0px -257px; COLOR: #2e2e2e; BORDER-RIGHT-COLOR: #ffc09c; BORDER-LEFT-COLOR: #ffc09c
+}
+.k-task-complete {
+	BORDER-BOTTOM-COLOR: #ffc09c; BORDER-TOP-COLOR: #ffc09c; BACKGROUND: url(textures/highlight.png) #ff8f50 repeat-x 0px -257px; COLOR: #2e2e2e; BORDER-RIGHT-COLOR: #ffc09c; BORDER-LEFT-COLOR: #ffc09c
+}
+.k-event-inverse {
+	COLOR: #fff
+}
+.k-state-selected.k-event {
+	BACKGROUND-POSITION: 0px 0px; -webkit-box-shadow: 0 0 0 2px #2e2e2e; box-shadow: 0 0 0 2px #2e2e2e
+}
+.k-event .k-resize-handle:after {
+	BACKGROUND-COLOR: #787878
+}
+.k-task-single .k-resize-handle:after {
+	BACKGROUND-COLOR: #787878
+}
+.k-scheduler-marquee:after {
+	BORDER-BOTTOM-COLOR: #f35800; BORDER-TOP-COLOR: #f35800; BORDER-RIGHT-COLOR: #f35800; BORDER-LEFT-COLOR: #f35800
+}
+.k-scheduler-marquee:before {
+	BORDER-BOTTOM-COLOR: #f35800; BORDER-TOP-COLOR: #f35800; BORDER-RIGHT-COLOR: #f35800; BORDER-LEFT-COLOR: #f35800
+}
+.k-panelbar .k-content {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BACKGROUND-COLOR: #fff; BORDER-TOP-COLOR: #c5c5c5; COLOR: #2e2e2e; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-panelbar .k-item {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BACKGROUND-COLOR: #fff; BORDER-TOP-COLOR: #c5c5c5; COLOR: #2e2e2e; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-panelbar .k-panel {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BACKGROUND-COLOR: #fff; BORDER-TOP-COLOR: #c5c5c5; COLOR: #2e2e2e; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-panelbar > LI > .k-link {
+	COLOR: #2e2e2e
+}
+.k-panelbar > .k-item > .k-link {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-panel > LI.k-item {
+	BACKGROUND-COLOR: #fff
+}
+.k-active-filter {
+	BORDER-BOTTOM-COLOR: #9f9f9f; BACKGROUND-COLOR: #fff; BORDER-TOP-COLOR: #9f9f9f; COLOR: #313131; BORDER-RIGHT-COLOR: #9f9f9f; BORDER-LEFT-COLOR: #9f9f9f
+}
+.k-state-active {
+	BORDER-BOTTOM-COLOR: #9f9f9f; BACKGROUND-COLOR: #fff; BORDER-TOP-COLOR: #9f9f9f; COLOR: #313131; BORDER-RIGHT-COLOR: #9f9f9f; BORDER-LEFT-COLOR: #9f9f9f
+}
+.k-state-active:hover {
+	BORDER-BOTTOM-COLOR: #9f9f9f; BACKGROUND-COLOR: #fff; BORDER-TOP-COLOR: #9f9f9f; COLOR: #313131; BORDER-RIGHT-COLOR: #9f9f9f; BORDER-LEFT-COLOR: #9f9f9f
+}
+.k-tabstrip .k-state-active {
+	BORDER-BOTTOM-COLOR: #9f9f9f; BACKGROUND-COLOR: #fff; BORDER-TOP-COLOR: #9f9f9f; COLOR: #313131; BORDER-RIGHT-COLOR: #9f9f9f; BORDER-LEFT-COLOR: #9f9f9f
+}
+.k-fieldselector .k-list-container {
+	BACKGROUND-COLOR: #fff
+}
+.k-state-focused.k-button {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-button:focus {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-state-hover.k-button {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #bcb4b0; BORDER-TOP-COLOR: #b6b6b6; COLOR: #2e2e2e; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-button:hover {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #bcb4b0; BORDER-TOP-COLOR: #b6b6b6; COLOR: #2e2e2e; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-state-active.k-button {
+	BORDER-BOTTOM-COLOR: #f85a00; BACKGROUND-COLOR: #f35800; BORDER-TOP-COLOR: #f85a00; COLOR: #fff; BORDER-RIGHT-COLOR: #f85a00; BORDER-LEFT-COLOR: #f85a00
+}
+.k-button:active {
+	BORDER-BOTTOM-COLOR: #f85a00; BACKGROUND-COLOR: #f35800; BORDER-TOP-COLOR: #f85a00; COLOR: #fff; BORDER-RIGHT-COLOR: #f85a00; BORDER-LEFT-COLOR: #f85a00
+}
+.k-state-active.k-button:hover {
+	BORDER-BOTTOM-COLOR: #8d8079; BACKGROUND-COLOR: #ff5e03; BORDER-TOP-COLOR: #8d8079; COLOR: #fff; BORDER-RIGHT-COLOR: #8d8079; BORDER-LEFT-COLOR: #8d8079
+}
+.k-button:hover:active {
+	BORDER-BOTTOM-COLOR: #8d8079; BACKGROUND-COLOR: #ff5e03; BORDER-TOP-COLOR: #8d8079; COLOR: #fff; BORDER-RIGHT-COLOR: #8d8079; BORDER-LEFT-COLOR: #8d8079
+}
+.k-state-disabled.k-button {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #c5c5c5; BACKGROUND-COLOR: #e9e9e9; BORDER-TOP-COLOR: #c5c5c5; COLOR: #9f9f9f; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-state-disabled.k-button:active {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #c5c5c5; BACKGROUND-COLOR: #e9e9e9; BORDER-TOP-COLOR: #c5c5c5; COLOR: #9f9f9f; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-state-disabled.k-button:hover {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #c5c5c5; BACKGROUND-COLOR: #e9e9e9; BORDER-TOP-COLOR: #c5c5c5; COLOR: #9f9f9f; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+[disabled].k-button {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #c5c5c5; BACKGROUND-COLOR: #e9e9e9; BORDER-TOP-COLOR: #c5c5c5; COLOR: #9f9f9f; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-state-disabled .k-button {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #c5c5c5; BACKGROUND-COLOR: #e9e9e9; BORDER-TOP-COLOR: #c5c5c5; COLOR: #9f9f9f; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-state-disabled .k-button:active {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #c5c5c5; BACKGROUND-COLOR: #e9e9e9; BORDER-TOP-COLOR: #c5c5c5; COLOR: #9f9f9f; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-state-disabled .k-button:hover {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #c5c5c5; BACKGROUND-COLOR: #e9e9e9; BORDER-TOP-COLOR: #c5c5c5; COLOR: #9f9f9f; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-menu .k-state-hover > .k-state-active {
+	BACKGROUND-COLOR: transparent
+}
+.k-state-highlight {
+	BACKGROUND: #fff; COLOR: #313131
+}
+.k-grouping-row .k-state-focused {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-state-focused {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-calendar .k-link {
+	COLOR: #2e2e2e
+}
+.k-calendar .k-footer {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; PADDING-TOP: 0px
+}
+.k-calendar .k-footer .k-nav-today {
+	BACKGROUND-COLOR: #fff; COLOR: #2e2e2e; TEXT-DECORATION: none
+}
+.k-calendar .k-footer .k-state-hover.k-nav-today {
+	BACKGROUND-COLOR: #fff; TEXT-DECORATION: underline
+}
+.k-calendar .k-footer .k-nav-today:hover {
+	BACKGROUND-COLOR: #fff; TEXT-DECORATION: underline
+}
+.k-calendar .k-footer .k-nav-today:active {
+	BACKGROUND-COLOR: #fff
+}
+.k-calendar .k-nav-fast.k-link {
+	COLOR: #2e2e2e
+}
+.k-calendar .k-state-hover.k-nav-fast {
+	BACKGROUND-COLOR: #bcb4b0; COLOR: #2e2e2e; TEXT-DECORATION: none
+}
+.k-calendar .k-state-hover.k-link {
+	border-radius: 4px
+}
+.k-calendar .k-today {
+	BACKGROUND-COLOR: #f35800
+}
+.k-calendar .k-today .k-link {
+	COLOR: #fff
+}
+.k-calendar .k-state-hover.k-today {
+	BACKGROUND-COLOR: #f35800
+}
+.k-calendar .k-footer .k-link {
+	border-radius: 0
+}
+.k-calendar TH {
+	BACKGROUND-COLOR: #f5f5f5
+}
+.k-calendar TD.k-state-hover.k-state-selected {
+	BACKGROUND-IMAGE: none; BACKGROUND-COLOR: #f35800
+}
+.k-calendar TD.k-state-selected .k-link {
+	COLOR: #fff
+}
+.k-calendar TD.k-state-selected.k-state-focused {
+	-webkit-box-shadow: inset 0 0 3px 1px #aeaeae; box-shadow: inset 0 0 3px 1px #aeaeae
+}
+.k-calendar TD.k-state-active.k-state-selected {
+	-webkit-box-shadow: inset 0 0 3px 1px #aeaeae; box-shadow: inset 0 0 3px 1px #aeaeae
+}
+.k-calendar TD.k-state-hover.k-state-selected:active {
+	-webkit-box-shadow: inset 0 0 3px 1px #aeaeae; box-shadow: inset 0 0 3px 1px #aeaeae
+}
+.k-calendar TD.k-state-selected:active {
+	-webkit-box-shadow: inset 0 0 3px 1px #aeaeae; box-shadow: inset 0 0 3px 1px #aeaeae
+}
+.k-window-titlebar .k-link {
+	border-radius: 4px
+}
+.k-group.k-calendar-container {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-state-selected.k-draghandle:hover {
+	BORDER-BOTTOM-COLOR: #f85a00; BACKGROUND-COLOR: #f35800; BORDER-TOP-COLOR: #f85a00; COLOR: #fff; BORDER-RIGHT-COLOR: #f85a00; BORDER-LEFT-COLOR: #f85a00
+}
+.k-ghost-splitbar-horizontal {
+	BORDER-BOTTOM-COLOR: #f85a00; BACKGROUND-COLOR: #f35800; BORDER-TOP-COLOR: #f85a00; COLOR: #fff; BORDER-RIGHT-COLOR: #f85a00; BORDER-LEFT-COLOR: #f85a00
+}
+.k-ghost-splitbar-vertical {
+	BORDER-BOTTOM-COLOR: #f85a00; BACKGROUND-COLOR: #f35800; BORDER-TOP-COLOR: #f85a00; COLOR: #fff; BORDER-RIGHT-COLOR: #f85a00; BORDER-LEFT-COLOR: #f85a00
+}
+.k-list > .k-state-highlight {
+	BORDER-BOTTOM-COLOR: #f85a00; BACKGROUND-COLOR: #f35800; BORDER-TOP-COLOR: #f85a00; COLOR: #fff; BORDER-RIGHT-COLOR: #f85a00; BORDER-LEFT-COLOR: #f85a00
+}
+.k-list > .k-state-selected {
+	BORDER-BOTTOM-COLOR: #f85a00; BACKGROUND-COLOR: #f35800; BORDER-TOP-COLOR: #f85a00; COLOR: #fff; BORDER-RIGHT-COLOR: #f85a00; BORDER-LEFT-COLOR: #f85a00
+}
+.k-marquee-color {
+	BORDER-BOTTOM-COLOR: #f85a00; BACKGROUND-COLOR: #f35800; BORDER-TOP-COLOR: #f85a00; COLOR: #fff; BORDER-RIGHT-COLOR: #f85a00; BORDER-LEFT-COLOR: #f85a00
+}
+.k-panel > .k-state-selected {
+	BORDER-BOTTOM-COLOR: #f85a00; BACKGROUND-COLOR: #f35800; BORDER-TOP-COLOR: #f85a00; COLOR: #fff; BORDER-RIGHT-COLOR: #f85a00; BORDER-LEFT-COLOR: #f85a00
+}
+.k-scheduler .k-scheduler-toolbar .k-state-selected {
+	BORDER-BOTTOM-COLOR: #f85a00; BACKGROUND-COLOR: #f35800; BORDER-TOP-COLOR: #f85a00; COLOR: #fff; BORDER-RIGHT-COLOR: #f85a00; BORDER-LEFT-COLOR: #f85a00
+}
+.k-scheduler .k-state-selected.k-today {
+	BORDER-BOTTOM-COLOR: #f85a00; BACKGROUND-COLOR: #f35800; BORDER-TOP-COLOR: #f85a00; COLOR: #fff; BORDER-RIGHT-COLOR: #f85a00; BORDER-LEFT-COLOR: #f85a00
+}
+.k-state-selected {
+	BORDER-BOTTOM-COLOR: #f85a00; BACKGROUND-COLOR: #f35800; BORDER-TOP-COLOR: #f85a00; COLOR: #fff; BORDER-RIGHT-COLOR: #f85a00; BORDER-LEFT-COLOR: #f85a00
+}
+.k-state-selected:link {
+	BORDER-BOTTOM-COLOR: #f85a00; BACKGROUND-COLOR: #f35800; BORDER-TOP-COLOR: #f85a00; COLOR: #fff; BORDER-RIGHT-COLOR: #f85a00; BORDER-LEFT-COLOR: #f85a00
+}
+.k-state-selected:visited {
+	BORDER-BOTTOM-COLOR: #f85a00; BACKGROUND-COLOR: #f35800; BORDER-TOP-COLOR: #f85a00; COLOR: #fff; BORDER-RIGHT-COLOR: #f85a00; BORDER-LEFT-COLOR: #f85a00
+}
+.k-group-header + .k-list > .k-first.k-item {
+	BORDER-TOP-COLOR: #b6b6b6
+}
+.k-static-header + .k-list > .k-first.k-item {
+	BORDER-TOP-COLOR: #b6b6b6
+}
+.k-first.k-virtual-item {
+	BORDER-TOP-COLOR: #b6b6b6
+}
+.k-popup > .k-group-header {
+	BACKGROUND: #b6b6b6; COLOR: #fff
+}
+.k-popup > .k-virtual-wrap > .k-group-header {
+	BACKGROUND: #b6b6b6; COLOR: #fff
+}
+.k-popup .k-list .k-item > .k-group {
+	BACKGROUND: #b6b6b6; COLOR: #fff; border-bottom-left-radius: 3px
+}
+.k-popup .k-treeview .k-item > .k-group {
+	BACKGROUND: 0px 0px; COLOR: #2e2e2e
+}
+.k-marquee-text {
+	COLOR: #fff
+}
+.k-state-focused.k-button {
+	-webkit-box-shadow: inset 0 0 3px 1px #aeaeae; box-shadow: inset 0 0 3px 1px #aeaeae
+}
+.k-grid-header TH.k-state-focused {
+	-webkit-box-shadow: inset 0 0 3px 1px #aeaeae; box-shadow: inset 0 0 3px 1px #aeaeae
+}
+.k-list > .k-state-focused {
+	-webkit-box-shadow: inset 0 0 3px 1px #aeaeae; box-shadow: inset 0 0 3px 1px #aeaeae
+}
+.k-listview > .k-state-focused {
+	-webkit-box-shadow: inset 0 0 3px 1px #aeaeae; box-shadow: inset 0 0 3px 1px #aeaeae
+}
+.k-state-focused {
+	-webkit-box-shadow: inset 0 0 3px 1px #aeaeae; box-shadow: inset 0 0 3px 1px #aeaeae
+}
+TD.k-state-focused {
+	-webkit-box-shadow: inset 0 0 3px 1px #aeaeae; box-shadow: inset 0 0 3px 1px #aeaeae
+}
+.k-list > .k-state-selected.k-state-focused {
+	-webkit-box-shadow: inset 0 0 3px 1px #c54700; box-shadow: inset 0 0 3px 1px #c54700
+}
+.k-listview > .k-state-selected.k-state-focused {
+	-webkit-box-shadow: inset 0 0 3px 1px #c54700; box-shadow: inset 0 0 3px 1px #c54700
+}
+.k-state-selected.k-state-focused {
+	-webkit-box-shadow: inset 0 0 3px 1px #c54700; box-shadow: inset 0 0 3px 1px #c54700
+}
+TD.k-state-selected.k-state-focused {
+	-webkit-box-shadow: inset 0 0 3px 1px #c54700; box-shadow: inset 0 0 3px 1px #c54700
+}
+.k-ie8 .k-state-focused.k-button {
+	BACKGROUND-COLOR: #bcb4b0
+}
+.k-ie8 .k-button:focus {
+	BACKGROUND-COLOR: #bcb4b0
+}
+.k-ie8 .k-grid-header TH.k-state-focused {
+	BACKGROUND-COLOR: #bcb4b0
+}
+.k-ie8 .k-listview > .k-state-focused {
+	BACKGROUND-COLOR: #bcb4b0
+}
+.k-ie8 .k-menu LI.k-state-focused {
+	BACKGROUND-COLOR: #bcb4b0
+}
+.k-ie8 .k-panelbar SPAN.k-state-focused {
+	BACKGROUND-COLOR: #bcb4b0
+}
+.k-ie8 .k-state-hover.k-tool {
+	BACKGROUND-COLOR: #bcb4b0
+}
+.k-ie8 TD.k-state-focused {
+	BACKGROUND-COLOR: #bcb4b0
+}
+.k-state-focused.k-state-selected.k-list-optionlabel {
+	-webkit-box-shadow: none; box-shadow: none
+}
+.k-list > .k-state-focused.k-state-selected {
+	-webkit-box-shadow: none; box-shadow: none
+}
+.k-panelbar > LI.k-state-default > .k-state-selected.k-link {
+	COLOR: #fff
+}
+.k-panelbar > LI > .k-state-selected {
+	COLOR: #fff
+}
+.k-state-selected > .k-link {
+	COLOR: #fff
+}
+.k-dropdown .k-state-focused {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #bcb4b0; BORDER-TOP-COLOR: #b6b6b6; COLOR: #2e2e2e; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-filebrowser-dropzone {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #bcb4b0; BORDER-TOP-COLOR: #b6b6b6; COLOR: #2e2e2e; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-list > .k-state-hover {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #bcb4b0; BORDER-TOP-COLOR: #b6b6b6; COLOR: #2e2e2e; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-mobile-list .k-check.k-edit-label:active {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #bcb4b0; BORDER-TOP-COLOR: #b6b6b6; COLOR: #2e2e2e; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-mobile-list .k-item > .k-label:active {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #bcb4b0; BORDER-TOP-COLOR: #b6b6b6; COLOR: #2e2e2e; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-mobile-list .k-item > .k-link:active {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #bcb4b0; BORDER-TOP-COLOR: #b6b6b6; COLOR: #2e2e2e; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-mobile-list .k-recur-view .k-check:active {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #bcb4b0; BORDER-TOP-COLOR: #b6b6b6; COLOR: #2e2e2e; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-pager-wrap .k-link:hover {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #bcb4b0; BORDER-TOP-COLOR: #b6b6b6; COLOR: #2e2e2e; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-scheduler .k-scheduler-toolbar UL LI.k-state-hover {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #bcb4b0; BORDER-TOP-COLOR: #b6b6b6; COLOR: #2e2e2e; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-splitbar-horizontal-hover:hover {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #bcb4b0; BORDER-TOP-COLOR: #b6b6b6; COLOR: #2e2e2e; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-splitbar-vertical-hover:hover {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #bcb4b0; BORDER-TOP-COLOR: #b6b6b6; COLOR: #2e2e2e; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-state-hover {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #bcb4b0; BORDER-TOP-COLOR: #b6b6b6; COLOR: #2e2e2e; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-state-hover:hover {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #bcb4b0; BORDER-TOP-COLOR: #b6b6b6; COLOR: #2e2e2e; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-ie8 .k-window-titlebar .k-state-hover {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BORDER-TOP-COLOR: #b6b6b6; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-state-focused > .k-select {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BORDER-TOP-COLOR: #b6b6b6; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-state-hover > .k-select {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BORDER-TOP-COLOR: #b6b6b6; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-state-focused.k-button {
+	BACKGROUND-IMAGE: url(textures/highlight.png)
+}
+.k-state-hover.k-button {
+	BACKGROUND-IMAGE: url(textures/highlight.png)
+}
+.k-button:focus {
+	BACKGROUND-IMAGE: url(textures/highlight.png)
+}
+.k-button:hover {
+	BACKGROUND-IMAGE: url(textures/highlight.png)
+}
+.k-draghandle:hover {
+	BACKGROUND-IMAGE: url(textures/highlight.png)
+}
+.k-state-hover.k-other-month .k-link {
+	BACKGROUND-IMAGE: url(textures/highlight.png)
+}
+.k-pager-wrap .k-link:hover {
+	BACKGROUND-IMAGE: url(textures/highlight.png)
+}
+.k-state-hover {
+	BACKGROUND-IMAGE: url(textures/highlight.png)
+}
+.k-state-hover:hover {
+	BACKGROUND-IMAGE: url(textures/highlight.png)
+}
+.k-textbox:hover {
+	BACKGROUND-IMAGE: url(textures/highlight.png)
+}
+DIV.k-filebrowser-dropzone EM {
+	BACKGROUND-IMAGE: url(textures/highlight.png)
+}
+.k-pager-wrap {
+	BACKGROUND-COLOR: #eae8e8; COLOR: #313131
+}
+.k-state-active.k-autocomplete {
+	BACKGROUND-IMAGE: none
+}
+.k-button:active {
+	BACKGROUND-IMAGE: none
+}
+.k-state-active.k-dropdown-wrap {
+	BACKGROUND-IMAGE: none
+}
+.k-state-active.k-numeric-wrap {
+	BACKGROUND-IMAGE: none
+}
+.k-panelbar > .k-item > .k-state-focused {
+	BACKGROUND-IMAGE: none
+}
+.k-state-active.k-picker-wrap {
+	BACKGROUND-IMAGE: none
+}
+.k-state-active {
+	BACKGROUND-IMAGE: none
+}
+.k-state-active:hover {
+	BACKGROUND-IMAGE: none
+}
+.k-state-active > .k-link {
+	BACKGROUND-IMAGE: none
+}
+.k-state-active.k-button {
+	BACKGROUND-IMAGE: url(textures/highlight.png)
+}
+.k-button:active {
+	BACKGROUND-IMAGE: url(textures/highlight.png)
+}
+.k-state-selected.k-draghandle:hover {
+	BACKGROUND-IMAGE: url(textures/highlight.png)
+}
+.k-state-selected {
+	BACKGROUND-IMAGE: url(textures/highlight.png)
+}
+.k-state-active.k-button {
+	BACKGROUND-POSITION: 50% 50%
+}
+.k-button:active {
+	BACKGROUND-POSITION: 50% 50%
+}
+.k-state-selected.k-draghandle:hover {
+	BACKGROUND-POSITION: 50% 50%
+}
+.k-tool-icon {
+	BACKGROUND-IMAGE: url(Default/sprite.png)
+}
+.k-state-hover.k-other-month .k-link {
+	COLOR: #2e2e2e
+}
+.k-state-hover > .k-link {
+	COLOR: #2e2e2e
+}
+DIV.k-filebrowser-dropzone EM {
+	COLOR: #2e2e2e
+}
+.k-state-focused.k-autocomplete {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #bdb4af; BORDER-TOP-COLOR: #b6b6b6; BACKGROUND-POSITION: 50% 50%; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-state-hover.k-autocomplete {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #bdb4af; BORDER-TOP-COLOR: #b6b6b6; BACKGROUND-POSITION: 50% 50%; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-state-focused.k-dropdown-wrap {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #bdb4af; BORDER-TOP-COLOR: #b6b6b6; BACKGROUND-POSITION: 50% 50%; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-state-hover.k-dropdown-wrap {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #bdb4af; BORDER-TOP-COLOR: #b6b6b6; BACKGROUND-POSITION: 50% 50%; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-state-focused.k-numeric-wrap {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #bdb4af; BORDER-TOP-COLOR: #b6b6b6; BACKGROUND-POSITION: 50% 50%; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-state-hover.k-numeric-wrap {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #bdb4af; BORDER-TOP-COLOR: #b6b6b6; BACKGROUND-POSITION: 50% 50%; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-state-focused.k-picker-wrap {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #bdb4af; BORDER-TOP-COLOR: #b6b6b6; BACKGROUND-POSITION: 50% 50%; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-state-hover.k-picker-wrap {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #bdb4af; BORDER-TOP-COLOR: #b6b6b6; BACKGROUND-POSITION: 50% 50%; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-dropdown .k-state-hover .k-input {
+	COLOR: #2e2e2e
+}
+.k-state-error {
+	BORDER-BOTTOM-COLOR: #ff6745; BACKGROUND-COLOR: #f4f3f2; BORDER-TOP-COLOR: #ff6745; COLOR: #ffb388; BORDER-RIGHT-COLOR: #ff6745; BORDER-LEFT-COLOR: #ff6745
+}
+.k-state-disabled {
+	opacity: .7
+}
+.k-ie8 .k-state-disabled {
+	FILTER: alpha(opacity=70)
+}
+.k-state-selected.k-loading-mask {
+	BACKGROUND-IMAGE: none; BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: transparent; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px
+}
+.k-state-selected.k-tile-empty {
+	BACKGROUND-IMAGE: none; BORDER-RIGHT-WIDTH: 0px; BACKGROUND-COLOR: transparent; BORDER-TOP-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px
+}
+.k-dropzone EM {
+	COLOR: #9f9f9f
+}
+.k-other-month {
+	COLOR: #9f9f9f
+}
+.k-other-month .k-link {
+	COLOR: #9f9f9f
+}
+.k-slider .k-draghandle {
+	COLOR: #9f9f9f
+}
+.k-state-disabled {
+	COLOR: #9f9f9f
+}
+.k-state-disabled .k-button {
+	COLOR: #9f9f9f
+}
+.k-state-disabled .k-link {
+	COLOR: #9f9f9f
+}
+.k-tile-empty STRONG {
+	COLOR: #9f9f9f
+}
+.k-dropzone .k-upload-status {
+	COLOR: #2e2e2e
+}
+.k-progressbar-indeterminate {
+	BACKGROUND: url(Default/indeterminate.gif)
+}
+.k-progressbar-indeterminate .k-progress-status-wrap {
+	DISPLAY: none
+}
+.k-progressbar-indeterminate .k-state-selected {
+	DISPLAY: none
+}
+.k-slider-track {
+	BACKGROUND-COLOR: #d5d5d5
+}
+.k-slider-selection {
+	BACKGROUND-COLOR: #f35800
+}
+.k-slider-horizontal .k-tick {
+	BACKGROUND-IMAGE: url(Default/slider-h.gif)
+}
+.k-slider-vertical .k-tick {
+	BACKGROUND-IMAGE: url(Default/slider-v.gif)
+}
+.k-tooltip.k-widget {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: transparent; BACKGROUND-COLOR: #eae8e8; BORDER-TOP-COLOR: transparent; BACKGROUND-POSITION: 50% 50%; COLOR: #313131; BORDER-RIGHT-COLOR: transparent; BORDER-LEFT-COLOR: transparent; -webkit-box-shadow: 0 4px 6px rgba(0, 0, 0, .3); box-shadow: 0 4px 6px rgba(0, 0, 0, .3)
+}
+.k-tooltip-validation.k-widget {
+	BORDER-BOTTOM-COLOR: #ffe79e; BACKGROUND-COLOR: #ffe79e; BORDER-TOP-COLOR: #ffe79e; COLOR: #6b5100; BORDER-RIGHT-COLOR: #ffe79e; BORDER-LEFT-COLOR: #ffe79e
+}
+.input-append .k-tooltip-validation {
+	POSITION: relative; FONT-SIZE: 12px; TOP: 3px
+}
+.input-prepend .k-tooltip-validation {
+	POSITION: relative; FONT-SIZE: 12px; TOP: 3px
+}
+.k-callout-n {
+	BORDER-BOTTOM-COLOR: #eae8e8
+}
+.k-callout-w {
+	BORDER-RIGHT-COLOR: #eae8e8
+}
+.k-callout-s {
+	BORDER-TOP-COLOR: #eae8e8
+}
+.k-callout-e {
+	BORDER-LEFT-COLOR: #eae8e8
+}
+.k-tooltip-validation .k-callout-n {
+	BORDER-BOTTOM-COLOR: #ffe79e
+}
+.k-tooltip-validation .k-callout-w {
+	BORDER-RIGHT-COLOR: #ffe79e
+}
+.k-tooltip-validation .k-callout-s {
+	BORDER-TOP-COLOR: #ffe79e
+}
+.k-tooltip-validation .k-callout-e {
+	BORDER-LEFT-COLOR: #ffe79e
+}
+.k-splitbar {
+	BACKGROUND-COLOR: #e9e9e9
+}
+.k-restricted-size-horizontal {
+	BACKGROUND-COLOR: #ffb388
+}
+.k-restricted-size-vertical {
+	BACKGROUND-COLOR: #ffb388
+}
+.k-file {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BACKGROUND-COLOR: #fff; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-file-progress {
+	COLOR: #2498bc
+}
+.k-file-progress .k-progress {
+	BACKGROUND-COLOR: #e5f5fa
+}
+.k-file-success {
+	COLOR: #3ea44e
+}
+.k-file-success .k-progress {
+	BACKGROUND-COLOR: #eaf7ec
+}
+.k-file-error {
+	COLOR: #d92800
+}
+.k-file-error .k-progress {
+	BACKGROUND-COLOR: #ffe0d9
+}
+.k-tile {
+	BORDER-BOTTOM-COLOR: #fff; BORDER-TOP-COLOR: #fff; BORDER-RIGHT-COLOR: #fff; BORDER-LEFT-COLOR: #fff
+}
+.k-textbox:hover {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BORDER-TOP-COLOR: #b6b6b6; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-tiles LI.k-state-hover {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BORDER-TOP-COLOR: #b6b6b6; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-tiles LI.k-state-selected {
+	BORDER-BOTTOM-COLOR: #f85a00; BORDER-TOP-COLOR: #f85a00; BORDER-RIGHT-COLOR: #f85a00; BORDER-LEFT-COLOR: #f85a00
+}
+.k-filebrowser .k-tile .k-file {
+	BACKGROUND-IMAGE: url(Default/imagebrowser.png); background-size: auto auto; -webkit-background-size: auto auto
+}
+.k-filebrowser .k-tile .k-folder {
+	BACKGROUND-IMAGE: url(Default/imagebrowser.png); background-size: auto auto; -webkit-background-size: auto auto
+}
+.k-leaf {
+	COLOR: #fff
+}
+.k-state-hover.k-leaf:hover {
+	COLOR: #fff
+}
+.k-inverse.k-leaf {
+	COLOR: #000
+}
+.k-state-hover.k-inverse.k-leaf:hover {
+	COLOR: #000
+}
+.k-button {
+	-webkit-box-shadow: none; box-shadow: none
+}
+.k-widget {
+	-webkit-box-shadow: none; box-shadow: none
+}
+.k-slider {
+	-webkit-box-shadow: none; box-shadow: none
+}
+.k-treeview {
+	-webkit-box-shadow: none; box-shadow: none
+}
+.k-upload {
+	-webkit-box-shadow: none; box-shadow: none
+}
+.k-state-hover {
+	-webkit-box-shadow: none; box-shadow: none
+}
+.k-state-focused.k-autocomplete {
+	-webkit-box-shadow: 0 0 3px 0 rgba(0, 0, 0, .3); box-shadow: 0 0 3px 0 rgba(0, 0, 0, .3)
+}
+.k-state-focused.k-dropdown-wrap {
+	-webkit-box-shadow: 0 0 3px 0 rgba(0, 0, 0, .3); box-shadow: 0 0 3px 0 rgba(0, 0, 0, .3)
+}
+.k-state-focused.k-numeric-wrap {
+	-webkit-box-shadow: 0 0 3px 0 rgba(0, 0, 0, .3); box-shadow: 0 0 3px 0 rgba(0, 0, 0, .3)
+}
+.k-state-focused.k-picker-wrap {
+	-webkit-box-shadow: 0 0 3px 0 rgba(0, 0, 0, .3); box-shadow: 0 0 3px 0 rgba(0, 0, 0, .3)
+}
+.k-textbox:focus {
+	-webkit-box-shadow: 0 0 3px 0 rgba(0, 0, 0, .3); box-shadow: 0 0 3px 0 rgba(0, 0, 0, .3)
+}
+.k-state-selected {
+	-webkit-box-shadow: none; box-shadow: none
+}
+.k-state-active {
+	-webkit-box-shadow: none; box-shadow: none
+}
+.k-grid TR:hover {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BACKGROUND-COLOR: #b9b3b3
+}
+.k-grid TD.k-state-focused.k-state-selected {
+	BACKGROUND-COLOR: #ff5e03
+}
+.k-grid TD.k-state-selected:hover {
+	BACKGROUND-IMAGE: none; BACKGROUND-COLOR: #f35800
+}
+.k-grid TR.k-state-selected:hover {
+	BACKGROUND-IMAGE: none; BACKGROUND-COLOR: #f35800
+}
+.k-state-border-down.k-autocomplete {
+	-webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .3); box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .3)
+}
+.k-state-border-up.k-autocomplete {
+	-webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .3); box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .3)
+}
+.k-datepicker-calendar {
+	-webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .3); box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .3)
+}
+.k-state-active.k-dropdown-wrap {
+	-webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .3); box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .3)
+}
+.k-filebrowser .k-image {
+	-webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .3); box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .3)
+}
+.k-grid .k-filter-options {
+	-webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .3); box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .3)
+}
+.k-menu .k-menu-group {
+	-webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .3); box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .3)
+}
+.k-state-focused.k-multiselect {
+	-webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .3); box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .3)
+}
+.k-state-active.k-picker-wrap {
+	-webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .3); box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .3)
+}
+.k-popup {
+	-webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .3); box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .3)
+}
+.k-time-popup {
+	-webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .3); box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .3)
+}
+.k-tooltip {
+	-webkit-box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .3); box-shadow: 0 2px 2px 0 rgba(0, 0, 0, .3)
+}
+.k-state-hover.k-treemap-tile {
+	-webkit-box-shadow: inset 0 0 0 3px #d5d5d5; box-shadow: inset 0 0 0 3px #d5d5d5
+}
+.k-window {
+	BACKGROUND-COLOR: #fff
+}
+.k-state-focused.k-window {
+	-webkit-box-shadow: 1px 1px 7px 1px rgba(0, 0, 0, .3); box-shadow: 1px 1px 7px 1px rgba(0, 0, 0, .3)
+}
+.k-window-maximized .k-window-content {
+	border-radius: 0
+}
+.k-window-maximized .k-window-titlebar {
+	border-radius: 0
+}
+.k-window-maximized.k-window {
+	border-radius: 0
+}
+.k-shadow {
+	-webkit-box-shadow: 0 1px 2px 0 rgba(0, 0, 0, .3); box-shadow: 0 1px 2px 0 rgba(0, 0, 0, .3)
+}
+.k-inset {
+	-webkit-box-shadow: inset 0 1px 1px rgba(0, 0, 0, .3); box-shadow: inset 0 1px 1px rgba(0, 0, 0, .3)
+}
+.k-notification-info.k-notification.k-widget {
+	BORDER-BOTTOM-COLOR: #b6e3f1; BACKGROUND-COLOR: #e5f5fa; BORDER-TOP-COLOR: #b6e3f1; COLOR: #2498bc; BORDER-RIGHT-COLOR: #b6e3f1; BORDER-LEFT-COLOR: #b6e3f1
+}
+.k-notification-success.k-notification.k-widget {
+	BORDER-BOTTOM-COLOR: #c5e9cb; BACKGROUND-COLOR: #eaf7ec; BORDER-TOP-COLOR: #c5e9cb; COLOR: #6e6e6e; BORDER-RIGHT-COLOR: #c5e9cb; BORDER-LEFT-COLOR: #c5e9cb
+}
+.k-notification-warning.k-notification.k-widget {
+	BORDER-BOTTOM-COLOR: #ffe38f; BACKGROUND-COLOR: #ffe79e; BORDER-TOP-COLOR: #ffe38f; COLOR: #666; BORDER-RIGHT-COLOR: #ffe38f; BORDER-LEFT-COLOR: #ffe38f
+}
+.k-notification-error.k-notification.k-widget {
+	BORDER-BOTTOM-COLOR: #ffb6a6; BACKGROUND-COLOR: #ffe0d9; BORDER-TOP-COLOR: #ffb6a6; COLOR: #6e6e6e; BORDER-RIGHT-COLOR: #ffb6a6; BORDER-LEFT-COLOR: #ffb6a6
+}
+.k-gantt .k-treelist {
+	BACKGROUND: #f1f1f1
+}
+.k-gantt .k-treelist .k-alt {
+	BACKGROUND-COLOR: #e4e4e4
+}
+.k-gantt .k-treelist TR:hover {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BACKGROUND-COLOR: #b9b3b3
+}
+.k-gantt .k-treelist .k-state-selected.k-alt {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BACKGROUND-COLOR: #f35800
+}
+.k-gantt .k-treelist .k-state-selected.k-alt > TD {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BACKGROUND-COLOR: #f35800
+}
+.k-gantt .k-treelist .k-state-selected {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BACKGROUND-COLOR: #f35800
+}
+.k-gantt .k-treelist .k-state-selected TD {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BACKGROUND-COLOR: #f35800
+}
+.k-gantt .k-treelist .k-state-selected:hover {
+	BACKGROUND-IMAGE: none; BACKGROUND-COLOR: #f35800
+}
+.k-gantt .k-treelist .k-state-selected:hover TD {
+	BACKGROUND-IMAGE: none; BACKGROUND-COLOR: #f35800
+}
+.k-task-dot:after {
+	BORDER-BOTTOM-COLOR: #2e2e2e; BACKGROUND-COLOR: #2e2e2e; BORDER-TOP-COLOR: #2e2e2e; BORDER-RIGHT-COLOR: #2e2e2e; BORDER-LEFT-COLOR: #2e2e2e
+}
+.k-task-dot:hover:after {
+	BACKGROUND-COLOR: #fff
+}
+.k-task-summary {
+	BORDER-BOTTOM-COLOR: #6e6e6e; BORDER-TOP-COLOR: #6e6e6e; BACKGROUND: #6e6e6e; BORDER-RIGHT-COLOR: #6e6e6e; BORDER-LEFT-COLOR: #6e6e6e
+}
+.k-task-milestone {
+	BORDER-BOTTOM-COLOR: #2e2e2e; BORDER-TOP-COLOR: #2e2e2e; BACKGROUND: #2e2e2e; BORDER-RIGHT-COLOR: #2e2e2e; BORDER-LEFT-COLOR: #2e2e2e
+}
+.k-task-summary-complete {
+	BORDER-BOTTOM-COLOR: #2e2e2e; BORDER-TOP-COLOR: #2e2e2e; BACKGROUND: #2e2e2e; BORDER-RIGHT-COLOR: #2e2e2e; BORDER-LEFT-COLOR: #2e2e2e
+}
+.k-task-summary.k-state-selected {
+	BORDER-BOTTOM-COLOR: #ffa673; BORDER-TOP-COLOR: #ffa673; BACKGROUND: #ffa673; BORDER-RIGHT-COLOR: #ffa673; BORDER-LEFT-COLOR: #ffa673
+}
+.k-state-selected .k-task-summary-complete {
+	BORDER-BOTTOM-COLOR: #f35800; BORDER-TOP-COLOR: #f35800; BACKGROUND: #f35800; BORDER-RIGHT-COLOR: #f35800; BORDER-LEFT-COLOR: #f35800
+}
+.k-task-milestone.k-state-selected {
+	BORDER-BOTTOM-COLOR: #f35800; BORDER-TOP-COLOR: #f35800; BACKGROUND: #f35800; BORDER-RIGHT-COLOR: #f35800; BORDER-LEFT-COLOR: #f35800
+}
+.k-task-single {
+	BORDER-BOTTOM-COLOR: #ffc09c; BACKGROUND-COLOR: #ffd7c0; BORDER-TOP-COLOR: #ffc09c; COLOR: #2e2e2e; BORDER-RIGHT-COLOR: #ffc09c; BORDER-LEFT-COLOR: #ffc09c
+}
+.k-task-single.k-state-selected {
+	BORDER-BOTTOM-COLOR: #f85a00; BORDER-TOP-COLOR: #f85a00; BORDER-RIGHT-COLOR: #f85a00; BORDER-LEFT-COLOR: #f85a00
+}
+.k-line {
+	BACKGROUND-COLOR: #2e2e2e; COLOR: #2e2e2e
+}
+.k-line.k-state-selected {
+	BACKGROUND-COLOR: #f35800; COLOR: #f35800
+}
+.k-resource {
+	BACKGROUND-COLOR: #fff
+}
+.k-i-kpi-decrease {
+	BACKGROUND-IMAGE: url(Default/sprite_kpi.png)
+}
+.k-i-kpi-denied {
+	BACKGROUND-IMAGE: url(Default/sprite_kpi.png)
+}
+.k-i-kpi-equal {
+	BACKGROUND-IMAGE: url(Default/sprite_kpi.png)
+}
+.k-i-kpi-hold {
+	BACKGROUND-IMAGE: url(Default/sprite_kpi.png)
+}
+.k-i-kpi-increase {
+	BACKGROUND-IMAGE: url(Default/sprite_kpi.png)
+}
+.k-i-kpi-open {
+	BACKGROUND-IMAGE: url(Default/sprite_kpi.png)
+}
+.k-autocomplete {
+	border-radius: 4px
+}
+.k-block {
+	border-radius: 4px
+}
+.k-button {
+	border-radius: 4px
+}
+.k-calendar .k-link {
+	border-radius: 4px
+}
+.k-calendar TD {
+	border-radius: 4px
+}
+.k-calendar-container {
+	border-radius: 4px
+}
+.k-colorpicker {
+	border-radius: 4px
+}
+.k-combobox {
+	border-radius: 4px
+}
+.k-datepicker {
+	border-radius: 4px
+}
+.k-datetimepicker {
+	border-radius: 4px
+}
+.k-drag-clue {
+	border-radius: 4px
+}
+.k-dropdown {
+	border-radius: 4px
+}
+.k-dropdown-wrap {
+	border-radius: 4px
+}
+.k-editor-inline {
+	border-radius: 4px
+}
+.k-gantt-views > .k-current-view {
+	border-radius: 4px
+}
+.k-grid .k-filter-options {
+	border-radius: 4px
+}
+.k-grouping-header .k-group-indicator {
+	border-radius: 4px
+}
+.k-inline-block {
+	border-radius: 4px
+}
+.k-list-container {
+	border-radius: 4px
+}
+.k-multiselect {
+	border-radius: 4px
+}
+.k-notification {
+	border-radius: 4px
+}
+.k-numeric-wrap {
+	border-radius: 4px
+}
+.k-numerictextbox {
+	border-radius: 4px
+}
+.k-picker-wrap {
+	border-radius: 4px
+}
+.k-slider-selection {
+	border-radius: 4px
+}
+.k-slider-track {
+	border-radius: 4px
+}
+.k-split-button .k-gantt-views {
+	border-radius: 4px
+}
+.k-textbox {
+	border-radius: 4px
+}
+.k-tile {
+	border-radius: 4px
+}
+.k-timepicker {
+	border-radius: 4px
+}
+.k-tooltip {
+	border-radius: 4px
+}
+.k-touch-scrollbar {
+	border-radius: 4px
+}
+.k-treeview .k-in {
+	border-radius: 4px
+}
+.k-upload {
+	border-radius: 4px
+}
+.k-window {
+	border-radius: 4px
+}
+.k-window-action {
+	border-radius: 4px
+}
+.k-window-titleless .k-window-content {
+	border-radius: 4px
+}
+.k-tool {
+	TEXT-ALIGN: center; VERTICAL-ALIGN: middle
+}
+.k-group-start.k-tool {
+	border-radius: 4px 0 0 4px
+}
+.k-toolbar .k-button-group .k-group-start {
+	border-radius: 4px 0 0 4px
+}
+.k-toolbar .k-split-button .k-button {
+	border-radius: 4px 0 0 4px
+}
+.k-rtl .k-group-start.k-tool {
+	border-radius: 0 4px 4px 0
+}
+.k-rtl .k-toolbar .k-button-group .k-group-start {
+	border-radius: 0 4px 4px 0
+}
+.k-rtl .k-toolbar .k-split-button .k-button {
+	border-radius: 0 4px 4px 0
+}
+.k-toolbar .k-button-group > .k-group-end {
+	border-radius: 4px
+}
+.k-group-end.k-tool {
+	border-radius: 0 4px 4px 0
+}
+.k-toolbar .k-button-group .k-button + .k-group-end {
+	border-radius: 0 4px 4px 0
+}
+.k-toolbar .k-split-button .k-split-button-arrow {
+	border-radius: 0 4px 4px 0
+}
+.k-rtl .k-group-end.k-tool {
+	border-radius: 4px 0 0 4px
+}
+.k-rtl .k-toolbar .k-button-group .k-group-end {
+	border-radius: 4px 0 0 4px
+}
+.k-rtl .k-toolbar .k-split-button .k-split-button-arrow {
+	border-radius: 4px 0 0 4px
+}
+.k-tool.k-group-end.k-group-start {
+	border-radius: 4px
+}
+.k-state-border-up.k-autocomplete {
+	border-radius: 0 0 4px 4px
+}
+.k-state-border-up.k-calendar-container {
+	border-radius: 0 0 4px 4px
+}
+.k-state-border-up.k-dropdown-wrap {
+	border-radius: 0 0 4px 4px
+}
+.k-filter-menu {
+	border-radius: 0 0 4px 4px
+}
+.k-state-border-up.k-list-container {
+	border-radius: 0 0 4px 4px
+}
+.k-state-border-up.k-multiselect {
+	border-radius: 0 0 4px 4px
+}
+.k-state-border-up.k-numeric-wrap {
+	border-radius: 0 0 4px 4px
+}
+.k-state-border-up.k-picker-wrap {
+	border-radius: 0 0 4px 4px
+}
+.k-window-content {
+	border-radius: 0 0 4px 4px
+}
+.k-state-border-up.k-autocomplete .k-input {
+	border-radius: 0 0 0 4px
+}
+.k-state-border-up.k-dropdown-wrap .k-input {
+	border-radius: 0 0 0 4px
+}
+.k-state-border-up.k-numeric-wrap .k-input {
+	border-radius: 0 0 0 4px
+}
+.k-state-border-up.k-picker-wrap .k-input {
+	border-radius: 0 0 0 4px
+}
+.k-state-border-up.k-picker-wrap .k-selected-color {
+	border-radius: 0 0 0 4px
+}
+.k-state-border-up.k-multiselect .k-multiselect-wrap {
+	border-radius: 0 0 4px 4px
+}
+.k-state-border-down.k-autocomplete {
+	border-radius: 4px 4px 0 0
+}
+.k-block > .k-header {
+	border-radius: 4px 4px 0 0
+}
+.k-state-border-down.k-calendar-container {
+	border-radius: 4px 4px 0 0
+}
+.k-state-border-down.k-dropdown-wrap {
+	border-radius: 4px 4px 0 0
+}
+.k-state-expanded.k-gantt-views {
+	border-radius: 4px 4px 0 0
+}
+.k-state-expanded.k-gantt-views > .k-current-view {
+	border-radius: 4px 4px 0 0
+}
+.k-state-border-down.k-list-container {
+	border-radius: 4px 4px 0 0
+}
+.k-state-border-down.k-multiselect {
+	border-radius: 4px 4px 0 0
+}
+.k-state-border-down.k-numeric-wrap {
+	border-radius: 4px 4px 0 0
+}
+.k-panelbar .k-tabstrip-items .k-item {
+	border-radius: 4px 4px 0 0
+}
+.k-state-border-down.k-picker-wrap {
+	border-radius: 4px 4px 0 0
+}
+.k-tabstrip-items .k-item {
+	border-radius: 4px 4px 0 0
+}
+.k-tabstrip-items .k-link {
+	border-radius: 4px 4px 0 0
+}
+.k-window-titlebar {
+	border-radius: 4px 4px 0 0
+}
+.k-state-border-down.k-split-button > .k-button {
+	border-radius: 4px 0 0 0
+}
+.k-state-border-up.k-split-button > .k-button {
+	border-radius: 0 0 0 4px
+}
+.k-state-border-down.k-split-button > .k-split-button-arrow {
+	border-radius: 0 4px 0 0
+}
+.k-state-border-up.k-split-button > .k-split-button-arrow {
+	border-radius: 0 0 4px 0
+}
+.k-dropdown-wrap .k-input {
+	border-radius: 3px 0 0 3px
+}
+.k-numeric-wrap .k-input {
+	border-radius: 3px 0 0 3px
+}
+.k-picker-wrap .k-input {
+	border-radius: 3px 0 0 3px
+}
+.k-rtl .k-dropdown-wrap .k-input {
+	border-radius: 0 3px 3px 0
+}
+.k-rtl .k-numeric-wrap .k-input {
+	border-radius: 0 3px 3px 0
+}
+.k-rtl .k-picker-wrap .k-input {
+	border-radius: 0 3px 3px 0
+}
+.k-numeric-wrap .k-link {
+	border-radius: 0 3px 0 0
+}
+.k-numeric-wrap .k-link + .k-link {
+	border-radius: 0 0 3px 0
+}
+.k-colorpicker .k-selected-color {
+	border-radius: 3px 0 0 3px
+}
+.k-rtl .k-colorpicker .k-selected-color {
+	border-radius: 0 3px 3px 0
+}
+.k-state-border-down.k-autocomplete .k-input {
+	border-radius: 4px 4px 0 0
+}
+.k-state-border-down.k-dropdown-wrap .k-input {
+	border-radius: 4px 0 0 0
+}
+.k-state-border-down.k-numeric-wrap .k-input {
+	border-radius: 4px 0 0 0
+}
+.k-state-border-down.k-picker-wrap .k-input {
+	border-radius: 4px 0 0 0
+}
+.k-state-border-down.k-picker-wrap .k-selected-color {
+	border-radius: 4px 0 0 0
+}
+.k-numeric-wrap .k-state-selected.k-link {
+	BACKGROUND-COLOR: #f35800
+}
+.k-state-border-down.k-multiselect .k-multiselect-wrap {
+	border-radius: 3px 3px 0 0
+}
+.k-datetimepicker .k-select + .k-select {
+	border-radius: 0 4px 4px 0
+}
+.k-dropdown-wrap .k-select {
+	border-radius: 0 4px 4px 0
+}
+.k-state-border-right.k-list-container {
+	border-radius: 0 4px 4px 0
+}
+.k-numeric-wrap .k-select {
+	border-radius: 0 4px 4px 0
+}
+.k-picker-wrap .k-select {
+	border-radius: 0 4px 4px 0
+}
+.k-rtl .k-datetimepicker .k-select + .k-select {
+	border-radius: 4px 0 0 4px
+}
+.k-rtl .k-dropdown-wrap .k-select {
+	border-radius: 4px 0 0 4px
+}
+.k-rtl .k-state-border-right.k-list-container {
+	border-radius: 4px 0 0 4px
+}
+.k-rtl .k-numeric-wrap .k-select {
+	border-radius: 4px 0 0 4px
+}
+.k-rtl .k-picker-wrap .k-select {
+	border-radius: 4px 0 0 4px
+}
+.k-expand-padding.k-numeric-wrap .k-input {
+	border-radius: 4px
+}
+.k-autocomplete .k-input {
+	border-radius: 3px
+}
+.k-multiselect-wrap {
+	border-radius: 3px
+}
+.k-textbox > INPUT {
+	border-radius: 3px
+}
+.k-dropzone {
+	border-radius: 3px
+}
+.k-fieldselector .k-list .k-item {
+	border-radius: 3px
+}
+.k-list .k-state-focused {
+	border-radius: 3px
+}
+.k-list .k-state-highlight {
+	border-radius: 3px
+}
+.k-list .k-state-hover {
+	border-radius: 3px
+}
+.k-list .k-state-selected {
+	border-radius: 3px
+}
+.k-list-optionlabel {
+	border-radius: 3px
+}
+.k-grid .k-slider .k-button {
+	border-radius: 13px
+}
+.k-slider .k-button {
+	border-radius: 13px
+}
+.k-draghandle {
+	border-radius: 7px
+}
+.k-scheduler-toolbar > UL LI:first-child {
+	border-radius: 4px 0 0 4px
+}
+.k-scheduler-toolbar > UL LI:first-child .k-link {
+	border-radius: 4px 0 0 4px
+}
+.k-scheduler-toolbar > UL.k-scheduler-views LI:first-child + LI {
+	border-radius: 4px 0 0 4px
+}
+.k-scheduler-toolbar > UL.k-scheduler-views LI:first-child + LI .k-link {
+	border-radius: 4px 0 0 4px
+}
+.k-edit-field > .k-scheduler-navigation {
+	border-radius: 4px
+}
+.k-scheduler-phone .k-scheduler-toolbar > UL LI.k-nav-today {
+	border-radius: 4px
+}
+.k-scheduler-phone .k-scheduler-toolbar > UL LI.k-nav-today .k-link {
+	border-radius: 4px
+}
+.k-scheduler DIV.k-scheduler-footer .k-link {
+	border-radius: 4px
+}
+.k-scheduler DIV.k-scheduler-footer UL LI {
+	border-radius: 4px
+}
+.k-event {
+	border-radius: 3px
+}
+.k-event .k-link {
+	border-radius: 3px
+}
+.k-more-events {
+	border-radius: 3px
+}
+.k-task-complete {
+	border-radius: 3px
+}
+.k-task-single {
+	border-radius: 3px
+}
+.k-scheduler-mobile .k-event {
+	border-radius: 2px
+}
+.k-grid-mobile .k-column-active + TH.k-header {
+	BORDER-LEFT-COLOR: #2e2e2e
+}
+.k-ie .km-pane-wrapper .k-content {
+	COLOR: #2e2e2e
+}
+.k-ie .km-pane-wrapper .k-group {
+	COLOR: #2e2e2e
+}
+.k-ie .km-pane-wrapper .k-header {
+	COLOR: #2e2e2e
+}
+.k-ie .km-pane-wrapper .k-popup-edit-form .k-edit-field .k-button {
+	COLOR: #2e2e2e
+}
+.k-ie .km-pane-wrapper .k-widget {
+	COLOR: #2e2e2e
+}
+.km-pane-wrapper .k-mobile-list .k-edit-field {
+	COLOR: #2e2e2e
+}
+.km-pane-wrapper .k-mobile-list .k-edit-label {
+	COLOR: #2e2e2e
+}
+.km-pane-wrapper .k-mobile-list .k-item {
+	COLOR: #2e2e2e
+}
+HTML .km-pane-wrapper .km-widget {
+	COLOR: #2e2e2e
+}
+.km-pane-wrapper .k-mobile-list .k-edit-field {
+	BACKGROUND-COLOR: #fff; BORDER-TOP: #c5c5c5 1px solid
+}
+.km-pane-wrapper .k-mobile-list .k-item {
+	BACKGROUND-COLOR: #fff; BORDER-TOP: #c5c5c5 1px solid
+}
+.km-pane-wrapper .k-mobile-list .k-recur-view > .k-edit-field .k-check {
+	BACKGROUND-COLOR: #fff; BORDER-TOP: #c5c5c5 1px solid
+}
+.km-pane-wrapper .k-mobile-list .k-edit-field TEXTAREA {
+	OUTLINE-WIDTH: 0px
+}
+.km-pane-wrapper .k-mobile-list .k-state-selected.k-item {
+	BACKGROUND-COLOR: #f35800; BORDER-TOP-COLOR: #f85a00
+}
+.km-pane-wrapper .k-mobile-list .k-recur-view > .k-edit-field .k-check:first-child {
+	BORDER-TOP-COLOR: transparent
+}
+.km-pane-wrapper .k-mobile-list > UL > LI > .k-link {
+	BORDER-BOTTOM: #c5c5c5 1px solid
+}
+.km-pane-wrapper .k-mobile-list .k-edit-field {
+	-webkit-box-shadow: 0 1px 1px #c5c5c5; box-shadow: 0 1px 1px #c5c5c5
+}
+.km-actionsheet .k-grid-delete {
+	BORDER-BOTTOM-COLOR: #ff6745; BACKGROUND-COLOR: red; BORDER-TOP-COLOR: #ff6745; COLOR: #fff; BORDER-RIGHT-COLOR: #ff6745; BORDER-LEFT-COLOR: #ff6745
+}
+.km-actionsheet .k-scheduler-delete {
+	BORDER-BOTTOM-COLOR: #ff6745; BACKGROUND-COLOR: red; BORDER-TOP-COLOR: #ff6745; COLOR: #fff; BORDER-RIGHT-COLOR: #ff6745; BORDER-LEFT-COLOR: #ff6745
+}
+.km-pane-wrapper .k-filter-menu [type=reset].k-button {
+	BORDER-BOTTOM-COLOR: #ff6745; BACKGROUND-COLOR: red; BORDER-TOP-COLOR: #ff6745; COLOR: #fff; BORDER-RIGHT-COLOR: #ff6745; BORDER-LEFT-COLOR: #ff6745
+}
+.km-pane-wrapper .k-scheduler-delete {
+	BORDER-BOTTOM-COLOR: #ff6745; BACKGROUND-COLOR: red; BORDER-TOP-COLOR: #ff6745; COLOR: #fff; BORDER-RIGHT-COLOR: #ff6745; BORDER-LEFT-COLOR: #ff6745
+}
+.km-actionsheet .k-grid-delete:active {
+	BACKGROUND-COLOR: #900
+}
+.km-actionsheet .k-scheduler-delete:active {
+	BACKGROUND-COLOR: #900
+}
+.km-pane-wrapper .k-filter-menu [type=reset].k-button:active {
+	BACKGROUND-COLOR: #900
+}
+.km-pane-wrapper .k-scheduler-delete:active {
+	BACKGROUND-COLOR: #900
+}
+.k-state-default.k-autocomplete {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #c5c5c5; BACKGROUND-COLOR: #ececec; BORDER-TOP-COLOR: #c5c5c5; BACKGROUND-POSITION: 50% 50%; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-state-default.k-dropdown-wrap {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #c5c5c5; BACKGROUND-COLOR: #ececec; BORDER-TOP-COLOR: #c5c5c5; BACKGROUND-POSITION: 50% 50%; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-state-default.k-numeric-wrap {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #c5c5c5; BACKGROUND-COLOR: #ececec; BORDER-TOP-COLOR: #c5c5c5; BACKGROUND-POSITION: 50% 50%; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-state-default.k-picker-wrap {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #c5c5c5; BACKGROUND-COLOR: #ececec; BORDER-TOP-COLOR: #c5c5c5; BACKGROUND-POSITION: 50% 50%; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-state-hover.k-autocomplete {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #bdb4af; BORDER-TOP-COLOR: #b6b6b6; BACKGROUND-POSITION: 50% 50%; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-state-hover.k-dropdown-wrap {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #bdb4af; BORDER-TOP-COLOR: #b6b6b6; BACKGROUND-POSITION: 50% 50%; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-state-hover.k-numeric-wrap {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #bdb4af; BORDER-TOP-COLOR: #b6b6b6; BACKGROUND-POSITION: 50% 50%; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-state-hover.k-picker-wrap {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #bdb4af; BORDER-TOP-COLOR: #b6b6b6; BACKGROUND-POSITION: 50% 50%; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-header.k-multiselect {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+INPUT.k-textbox {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+TEXTAREA.k-textbox {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-state-hover.k-header.k-multiselect {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BORDER-TOP-COLOR: #b6b6b6; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-state-focused.k-autocomplete {
+	BACKGROUND-COLOR: #d4d4d4; BACKGROUND-POSITION: 50% 50%
+}
+.k-state-focused.k-dropdown-wrap {
+	BACKGROUND-COLOR: #d4d4d4; BACKGROUND-POSITION: 50% 50%
+}
+.k-state-focused.k-header.k-multiselect {
+	BACKGROUND-COLOR: #d4d4d4; BACKGROUND-POSITION: 50% 50%
+}
+.k-state-focused.k-numeric-wrap {
+	BACKGROUND-COLOR: #d4d4d4; BACKGROUND-POSITION: 50% 50%
+}
+.k-state-focused.k-picker-wrap {
+	BACKGROUND-COLOR: #d4d4d4; BACKGROUND-POSITION: 50% 50%
+}
+.k-list-container {
+	COLOR: #2e2e2e
+}
+.k-dropdown .k-input {
+	COLOR: #2e2e2e
+}
+.k-dropdown .k-state-focused .k-input {
+	COLOR: #2e2e2e
+}
+.k-menu .k-popup {
+	COLOR: #2e2e2e
+}
+.k-state-default > .k-select {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-state-hover > .k-select {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BORDER-TOP-COLOR: #b6b6b6; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-state-focused > .k-select {
+	BORDER-BOTTOM-COLOR: #bdbdbd; BORDER-TOP-COLOR: #bdbdbd; BORDER-RIGHT-COLOR: #bdbdbd; BORDER-LEFT-COLOR: #bdbdbd
+}
+.k-tabstrip:focus {
+	-webkit-box-shadow: 0 0 3px 0 rgba(0, 0, 0, .3); box-shadow: 0 0 3px 0 rgba(0, 0, 0, .3)
+}
+.k-panelbar > LI.k-state-default > .k-link {
+	COLOR: #2e2e2e
+}
+.k-tabstrip-items .k-state-default .k-link {
+	COLOR: #2e2e2e
+}
+.k-panelbar > LI.k-state-default > .k-state-hover.k-link {
+	COLOR: #2e2e2e
+}
+.k-panelbar > LI.k-state-hover > .k-link {
+	COLOR: #2e2e2e
+}
+.k-tabstrip-items .k-state-hover .k-link {
+	COLOR: #2e2e2e
+}
+.k-panelbar > .k-state-hover.k-state-focused {
+	BACKGROUND: #bcb4b0; -webkit-box-shadow: none; box-shadow: none
+}
+.k-tabstrip-items .k-state-default {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-tabstrip-items .k-state-hover {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BORDER-TOP-COLOR: #b6b6b6; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-panelbar .k-tabstrip-items .k-state-active {
+	BACKGROUND-IMAGE: none; BORDER-BOTTOM-COLOR: #9f9f9f; BACKGROUND-COLOR: #fff; BORDER-TOP-COLOR: #9f9f9f; BORDER-RIGHT-COLOR: #9f9f9f; BORDER-LEFT-COLOR: #9f9f9f
+}
+.k-tabstrip-items .k-state-active {
+	BACKGROUND-IMAGE: none; BORDER-BOTTOM-COLOR: #9f9f9f; BACKGROUND-COLOR: #fff; BORDER-TOP-COLOR: #9f9f9f; BORDER-RIGHT-COLOR: #9f9f9f; BORDER-LEFT-COLOR: #9f9f9f
+}
+.k-tabstrip .k-state-active.k-content {
+	BACKGROUND-COLOR: #fff; COLOR: #2e2e2e
+}
+.k-menu .k-item {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-header.k-menu {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-column-menu {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-column-menu .k-item {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-overflow-container .k-overflow-group {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-overflow-container .k-overflow-group {
+	-webkit-box-shadow: inset 0 1px 0 #fff, 0 1px 0 #fff; box-shadow: inset 0 1px 0 #fff, 0 1px 0 #fff
+}
+.k-overflow-container .k-overflow-group + .k-overflow-group {
+	-webkit-box-shadow: 0 1px 0 #fff; box-shadow: 0 1px 0 #fff
+}
+.k-overflow-group.k-toolbar-first-visible {
+	-webkit-box-shadow: 0 1px 0 #fff; box-shadow: 0 1px 0 #fff
+}
+.k-overflow-group.k-toolbar-last-visible {
+	-webkit-box-shadow: inset 0 1px 0 #fff; box-shadow: inset 0 1px 0 #fff
+}
+.k-column-menu .k-separator {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BACKGROUND-COLOR: transparent; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-menu .k-group {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-state-active.k-grid-filter {
+	BACKGROUND-COLOR: #fff
+}
+.k-grid-footer TD {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; COLOR: #2e2e2e; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5; FONT-WEIGHT: 700
+}
+.k-group-footer TD {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; COLOR: #2e2e2e; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5; FONT-WEIGHT: 700
+}
+.k-grouping-row TD {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; COLOR: #2e2e2e; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5; FONT-WEIGHT: 700
+}
+.k-grouping-header {
+	COLOR: #2e2e2e
+}
+.k-grid TD.k-state-focused {
+	-webkit-box-shadow: inset 0 0 3px 1px #aeaeae; box-shadow: inset 0 0 3px 1px #aeaeae
+}
+.k-gantt-toolbar .k-state-default {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-grid .k-grouping-header {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-grid-header {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-grid-header-wrap {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-grouping-header .k-group-indicator {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-header {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-pager-wrap {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-pager-wrap .k-link {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-pager-wrap .k-textbox {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-overflow-container .k-primary {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #e45200; BACKGROUND-COLOR: #ff6b18; BORDER-TOP-COLOR: #e45200; BACKGROUND-POSITION: 50% 50%; COLOR: #fff; BORDER-RIGHT-COLOR: #e45200; BORDER-LEFT-COLOR: #e45200; -webkit-box-shadow: none; box-shadow: none
+}
+.k-primary {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #e45200; BACKGROUND-COLOR: #ff6b18; BORDER-TOP-COLOR: #e45200; BACKGROUND-POSITION: 50% 50%; COLOR: #fff; BORDER-RIGHT-COLOR: #e45200; BORDER-LEFT-COLOR: #e45200; -webkit-box-shadow: none; box-shadow: none
+}
+.k-state-focused.k-primary {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #e45200; BORDER-TOP-COLOR: #e45200; COLOR: #fff; BORDER-RIGHT-COLOR: #e45200; BORDER-LEFT-COLOR: #e45200; -webkit-box-shadow: 0 0 3px 0 #f35800; box-shadow: 0 0 3px 0 #f35800
+}
+.k-primary:focus {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #e45200; BORDER-TOP-COLOR: #e45200; COLOR: #fff; BORDER-RIGHT-COLOR: #e45200; BORDER-LEFT-COLOR: #e45200; -webkit-box-shadow: 0 0 3px 0 #f35800; box-shadow: 0 0 3px 0 #f35800
+}
+.k-primary:hover {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #8d8079; BACKGROUND-COLOR: #ff5e03; BORDER-TOP-COLOR: #8d8079; COLOR: #fff; BORDER-RIGHT-COLOR: #8d8079; BORDER-LEFT-COLOR: #8d8079; -webkit-box-shadow: none; box-shadow: none
+}
+.k-primary:active {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #f85a00; BACKGROUND-COLOR: #f25801; BORDER-TOP-COLOR: #f85a00; COLOR: #fff; BORDER-RIGHT-COLOR: #f85a00; BORDER-LEFT-COLOR: #f85a00; -webkit-box-shadow: none; box-shadow: none
+}
+.k-state-disabled.k-primary {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #e6e6e6; BACKGROUND-COLOR: #ff6f1d; BORDER-TOP-COLOR: #e6e6e6; COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #e6e6e6; BORDER-LEFT-COLOR: #e6e6e6; -webkit-box-shadow: none; box-shadow: none
+}
+.k-state-disabled.k-primary:active {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #e6e6e6; BACKGROUND-COLOR: #ff6f1d; BORDER-TOP-COLOR: #e6e6e6; COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #e6e6e6; BORDER-LEFT-COLOR: #e6e6e6; -webkit-box-shadow: none; box-shadow: none
+}
+.k-state-disabled.k-primary:hover {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #e6e6e6; BACKGROUND-COLOR: #ff6f1d; BORDER-TOP-COLOR: #e6e6e6; COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #e6e6e6; BORDER-LEFT-COLOR: #e6e6e6; -webkit-box-shadow: none; box-shadow: none
+}
+.k-state-disabled .k-primary {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #e6e6e6; BACKGROUND-COLOR: #ff6f1d; BORDER-TOP-COLOR: #e6e6e6; COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #e6e6e6; BORDER-LEFT-COLOR: #e6e6e6; -webkit-box-shadow: none; box-shadow: none
+}
+.k-state-disabled .k-primary:active {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #e6e6e6; BACKGROUND-COLOR: #ff6f1d; BORDER-TOP-COLOR: #e6e6e6; COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #e6e6e6; BORDER-LEFT-COLOR: #e6e6e6; -webkit-box-shadow: none; box-shadow: none
+}
+.k-state-disabled .k-primary:hover {
+	BACKGROUND-IMAGE: url(textures/highlight.png); BORDER-BOTTOM-COLOR: #e6e6e6; BACKGROUND-COLOR: #ff6f1d; BORDER-TOP-COLOR: #e6e6e6; COLOR: #e6e6e6; BORDER-RIGHT-COLOR: #e6e6e6; BORDER-LEFT-COLOR: #e6e6e6; -webkit-box-shadow: none; box-shadow: none
+}
+.k-pager-numbers .k-link {
+	BORDER-BOTTOM-COLOR: transparent; BORDER-TOP-COLOR: transparent; BORDER-RIGHT-COLOR: transparent; BORDER-LEFT-COLOR: transparent
+}
+.k-treeview .k-in {
+	BORDER-BOTTOM-COLOR: transparent; BORDER-TOP-COLOR: transparent; BORDER-RIGHT-COLOR: transparent; BORDER-LEFT-COLOR: transparent
+}
+.k-grid .k-hierarchy-cell .k-icon {
+	BACKGROUND-COLOR: transparent; border-radius: 4px
+}
+.k-scheduler-table .k-icon {
+	BACKGROUND-COLOR: transparent; border-radius: 4px
+}
+.k-treeview .k-icon {
+	BACKGROUND-COLOR: transparent; border-radius: 4px
+}
+.k-scheduler-table .k-state-hover .k-icon {
+	BACKGROUND-COLOR: transparent
+}
+.k-button:focus {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: 0px
+}
+.k-split-button:focus {
+	OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: 0px
+}
+.k-split-button:focus {
+	-webkit-box-shadow: inset 0 0 4px 2px #b6b6b6; box-shadow: inset 0 0 4px 2px #b6b6b6
+}
+.k-split-button:focus > .k-button {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BACKGROUND: 0px 0px; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-editor .k-tool:focus {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: 0px; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5; -webkit-box-shadow: inset 0 0 3px 1px #b6b6b6; box-shadow: inset 0 0 3px 1px #b6b6b6
+}
+.k-checkbox-label:before {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BACKGROUND: #fff; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5; border-radius: 3px
+}
+.k-checkbox-label:active:before {
+	BORDER-BOTTOM-COLOR: #f85a00; BORDER-TOP-COLOR: #f85a00; BORDER-RIGHT-COLOR: #f85a00; BORDER-LEFT-COLOR: #f85a00; -webkit-box-shadow: 0 0 3px 0 #f35800; box-shadow: 0 0 3px 0 #f35800
+}
+.k-checkbox:focus + .k-checkbox-label:before {
+	BORDER-BOTTOM-COLOR: #f85a00; BORDER-TOP-COLOR: #f85a00; BORDER-RIGHT-COLOR: #f85a00; BORDER-LEFT-COLOR: #f85a00; -webkit-box-shadow: 0 0 3px 0 #f35800; box-shadow: 0 0 3px 0 #f35800
+}
+.k-radio-label:before {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-RIGHT-WIDTH: 1px; BACKGROUND-COLOR: #fff; BORDER-TOP-COLOR: #c5c5c5; BORDER-TOP-WIDTH: 1px; BORDER-BOTTOM-WIDTH: 1px; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5; BORDER-LEFT-WIDTH: 1px; border-radius: 50%
+}
+.k-radio-label:active:before {
+	BORDER-BOTTOM-COLOR: #f85a00; BORDER-TOP-COLOR: #f85a00; BORDER-RIGHT-COLOR: #f85a00; BORDER-LEFT-COLOR: #f85a00; -webkit-box-shadow: 0 0 3px 0 #f35800; box-shadow: 0 0 3px 0 #f35800
+}
+.k-radio:focus + .k-radio-label:before {
+	BORDER-BOTTOM-COLOR: #f85a00; BORDER-TOP-COLOR: #f85a00; BORDER-RIGHT-COLOR: #f85a00; BORDER-LEFT-COLOR: #f85a00; -webkit-box-shadow: 0 0 3px 0 #f35800; box-shadow: 0 0 3px 0 #f35800
+}
+.k-chart .k-mask {
+	FILTER: alpha(opacity=68); BACKGROUND-COLOR: #fff; opacity: .68
+}
+.k-chart .k-selection {
+	-webkit-box-shadow: inset 0 1px 8px rgba(0, 0, 0, .1); box-shadow: inset 0 1px 8px rgba(0, 0, 0, .1); -webkit-transition: -webkit-box-shadow .2s linear, border-color .2s linear; transition: box-shadow .2s linear, border-color .2s linear
+}
+.k-chart .k-selection:hover {
+	-webkit-box-shadow: inset 0 3px 8px rgba(0, 0, 0, .2); box-shadow: inset 0 3px 8px rgba(0, 0, 0, .2)
+}
+.k-chart .k-handle {
+	BACKGROUND-COLOR: #fcfcfc; -webkit-box-shadow: 0 0 0 1px rgba(0, 0, 0, .1); box-shadow: 0 0 0 1px rgba(0, 0, 0, .1)
+}
+.k-chart .k-handle:hover {
+	BORDER-BOTTOM-COLOR: #b8b8b8; BACKGROUND-COLOR: #fff; BORDER-TOP-COLOR: #b8b8b8; BORDER-RIGHT-COLOR: #b8b8b8; BORDER-LEFT-COLOR: #b8b8b8; -webkit-box-shadow: 0 0 0 2px rgba(111, 101, 96, .5); box-shadow: 0 0 0 2px rgba(111, 101, 96, .5)
+}
+.k-chart .k-navigator-hint .k-tooltip {
+	BORDER-BOTTOM: #fff 3px solid; BORDER-LEFT: #fff 3px solid; BACKGROUND: #fff; COLOR: #242424; BORDER-TOP: #fff 3px solid; BORDER-RIGHT: #fff 3px solid; -webkit-box-shadow: 0 0 0 3px rgba(0, 0, 0, .2); box-shadow: 0 0 0 3px rgba(0, 0, 0, .2)
+}
+.k-chart .k-navigator-hint .k-scroll {
+	HEIGHT: 4px
+}
+.k-map .k-marker {
+	BACKGROUND-IMAGE: url(Default/markers.png)
+}
+.k-map .k-attribution {
+	COLOR: #666
+}
+.k-spreadsheet-column-header {
+	BACKGROUND-COLOR: #fff
+}
+.k-spreadsheet-row-header {
+	BACKGROUND-COLOR: #fff
+}
+.k-spreadsheet-column-header {
+	BACKGROUND-IMAGE: none; BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #e9e9e9; BORDER-TOP-COLOR: #b6b6b6; COLOR: #000; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-spreadsheet-row-header {
+	BACKGROUND-IMAGE: none; BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #e9e9e9; BORDER-TOP-COLOR: #b6b6b6; COLOR: #000; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-spreadsheet-top-corner {
+	BACKGROUND-IMAGE: none; BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #e9e9e9; BORDER-TOP-COLOR: #b6b6b6; COLOR: #000; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-spreadsheet-top-corner {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BORDER-TOP-COLOR: #b6b6b6; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-spreadsheet-top-corner:after {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BORDER-TOP-COLOR: transparent; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: transparent
+}
+.k-spreadsheet-pane {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BORDER-TOP-COLOR: #b6b6b6; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-spreadsheet-pane .k-spreadsheet-haxis {
+	BORDER-BOTTOM-COLOR: #d0d0d0; BORDER-TOP-COLOR: #d0d0d0; BORDER-RIGHT-COLOR: #d0d0d0; BORDER-LEFT-COLOR: #d0d0d0
+}
+.k-spreadsheet-pane .k-spreadsheet-vaxis {
+	BORDER-BOTTOM-COLOR: #d0d0d0; BORDER-TOP-COLOR: #d0d0d0; BORDER-RIGHT-COLOR: #d0d0d0; BORDER-LEFT-COLOR: #d0d0d0
+}
+.k-spreadsheet-pane .k-spreadsheet-column-header {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BORDER-TOP-COLOR: #b6b6b6; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-spreadsheet-pane .k-spreadsheet-row-header {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BORDER-TOP-COLOR: #b6b6b6; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-spreadsheet-pane .k-spreadsheet-merged-cell {
+	BACKGROUND-COLOR: #fff
+}
+.k-spreadsheet-pane .k-selection-full {
+	
+}
+.k-spreadsheet-pane .k-selection-partial {
+	
+}
+.k-spreadsheet-pane .k-filter-range {
+	BORDER-BOTTOM-COLOR: #f35800; BORDER-TOP-COLOR: #f35800; BORDER-RIGHT-COLOR: #f35800; BORDER-LEFT-COLOR: #f35800
+}
+.k-spreadsheet-pane .k-spreadsheet-column-header .k-selection-full {
+	BORDER-BOTTOM-COLOR: #f35800
+}
+.k-spreadsheet-pane .k-spreadsheet-column-header .k-selection-partial {
+	BORDER-BOTTOM-COLOR: #f35800
+}
+.k-spreadsheet-pane .k-spreadsheet-row-header .k-selection-full {
+	BORDER-RIGHT-COLOR: #f35800
+}
+.k-spreadsheet-pane .k-spreadsheet-row-header .k-selection-partial {
+	BORDER-RIGHT-COLOR: #f35800
+}
+.k-auto-fill {
+	BORDER-BOTTOM-COLOR: #f35800; BORDER-TOP-COLOR: #f35800; BORDER-RIGHT-COLOR: #f35800; BORDER-LEFT-COLOR: #f35800; -webkit-box-shadow: inset 0 0 0 1px #fff, 0 0 0 1px #f35800; box-shadow: inset 0 0 0 1px #fff, 0 0 0 1px #f35800
+}
+.k-spreadsheet-selection {
+	BORDER-BOTTOM-COLOR: #f35800; BORDER-TOP-COLOR: #f35800; BORDER-RIGHT-COLOR: #f35800; BORDER-LEFT-COLOR: #f35800; -webkit-box-shadow: inset 0 0 0 1px #fff, 0 0 0 1px #f35800; box-shadow: inset 0 0 0 1px #fff, 0 0 0 1px #f35800
+}
+.k-spreadsheet-selection {
+	
+}
+.k-spreadsheet-active-cell {
+	BORDER-BOTTOM-COLOR: #f35800 !important; BACKGROUND-COLOR: #fff; BORDER-TOP-COLOR: #f35800 !important; BORDER-RIGHT-COLOR: #f35800 !important; BORDER-LEFT-COLOR: #f35800 !important
+}
+.k-single.k-spreadsheet-active-cell {
+	BACKGROUND-COLOR: #fff
+}
+.k-spreadsheet > .k-spreadsheet-formula-bar {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BACKGROUND-COLOR: #fff; BORDER-TOP-COLOR: #e9e9e9; BORDER-RIGHT-COLOR: #e9e9e9; BORDER-LEFT-COLOR: #e9e9e9
+}
+.k-spreadsheet > .k-spreadsheet-formula-bar:before {
+	BORDER-BOTTOM-COLOR: #b6b6b6; BORDER-TOP-COLOR: #b6b6b6; BORDER-RIGHT-COLOR: #b6b6b6; BORDER-LEFT-COLOR: #b6b6b6
+}
+.k-spreadsheet > .k-spreadsheet-formula-bar:after {
+	BORDER-BOTTOM-COLOR: #e9e9e9; BORDER-TOP-COLOR: #e9e9e9; BORDER-RIGHT-COLOR: #e9e9e9; BORDER-LEFT-COLOR: #e9e9e9
+}
+.k-spreadsheet .k-spreadsheet-formula-input {
+	BACKGROUND-COLOR: #fff; COLOR: #2e2e2e
+}
+.k-spreadsheet .k-resize-handle {
+	BACKGROUND-COLOR: #f35800
+}
+.k-spreadsheet .k-resize-hint-handle {
+	BACKGROUND-COLOR: #f35800
+}
+.k-spreadsheet .k-resize-hint-marker {
+	BACKGROUND-COLOR: #f35800
+}
+.k-spreadsheet .k-resize-hint-vertical .k-resize-hint-handle {
+	BACKGROUND-COLOR: #f35800
+}
+.k-spreadsheet .k-resize-hint-vertical .k-resize-hint-marker {
+	BACKGROUND-COLOR: #f35800
+}
+.k-spreadsheet .k-auto-fill-punch {
+	
+}
+.k-spreadsheet-format-cells .k-spreadsheet-preview {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-spreadsheet-filter {
+	BACKGROUND-COLOR: #fff; -webkit-box-shadow: inset 0 0 0 1px #d0d0d0; box-shadow: inset 0 0 0 1px #d0d0d0; border-radius: 4px
+}
+.k-state-active.k-spreadsheet-filter {
+	BACKGROUND-COLOR: #f35800; COLOR: #fff
+}
+.k-spreadsheet-filter:hover {
+	BORDER-BOTTOM-COLOR: #a99f9a; BORDER-TOP-COLOR: #a99f9a; BACKGROUND: #bcb4b0; COLOR: #2e2e2e; BORDER-RIGHT-COLOR: #a99f9a; BORDER-LEFT-COLOR: #a99f9a
+}
+.k-action-window .k-action-buttons {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-spreadsheet-sample {
+	COLOR: #7a7a7a
+}
+.k-state-selected .k-spreadsheet-sample {
+	COLOR: inherit
+}
+.k-spreadsheet-window .k-list {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5; border-radius: 4px
+}
+.k-spreadsheet-window .k-list-wrapper {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5; border-radius: 4px
+}
+.k-spreadsheet-window .export-config {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-spreadsheet-window .k-edit-field > .k-orientation-label {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-spreadsheet-window .k-page-orientation {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: #c5c5c5; BORDER-RIGHT-COLOR: #c5c5c5; BORDER-LEFT-COLOR: #c5c5c5; -webkit-box-shadow: 0 5px 5px 0 rgba(0, 0, 0, .1); box-shadow: 0 5px 5px 0 rgba(0, 0, 0, .1)
+}
+.k-spreadsheet-window .k-page-orientation:before {
+	BORDER-BOTTOM-COLOR: #c5c5c5; BORDER-TOP-COLOR: transparent; BACKGROUND: #fff; BORDER-RIGHT-COLOR: transparent; BORDER-LEFT-COLOR: #c5c5c5
+}
+.k-spreadsheet-window .k-margins-horizontal {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BACKGROUND: 0px 0px; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-spreadsheet-window .k-margins-vertical {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BACKGROUND: 0px 0px; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-toolbar.k-spreadsheet-toolbar .k-button-group .k-button {
+	border-radius: 4px
+}
+.k-spreadsheet-toolbar > .k-button {
+	border-radius: 4px
+}
+.k-spreadsheet-toolbar > .k-button-group {
+	border-radius: 4px
+}
+.k-spreadsheet-toolbar > .k-widget {
+	border-radius: 4px
+}
+.k-spreadsheet-toolbar > .k-separator {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-spreadsheet-toolbar .k-overflow-anchor {
+	border-radius: 0
+}
+.k-spreadsheet-popup {
+	border-radius: 4px
+}
+.k-spreadsheet-popup .k-separator {
+	BACKGROUND-COLOR: #d5d5d5
+}
+.k-spreadsheet-popup .k-button {
+	BACKGROUND-COLOR: transparent
+}
+.k-spreadsheet-popup .k-button:hover {
+	BACKGROUND-COLOR: #bcb4b0
+}
+.k-spreadsheet-popup .k-state-active {
+	BACKGROUND-COLOR: #f35800; COLOR: #000
+}
+.k-spreadsheet-popup .k-state-active:hover {
+	BACKGROUND-COLOR: #c04600
+}
+.k-spreadsheet-filter-menu .k-details {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5
+}
+.k-spreadsheet-filter-menu .k-details-content .k-space-right {
+	BACKGROUND-COLOR: #fff
+}
+.k-spreadsheet-filter-menu .k-spreadsheet-value-treeview-wrapper {
+	BORDER-BOTTOM-COLOR: #d5d5d5; BACKGROUND-COLOR: #fff; BORDER-TOP-COLOR: #d5d5d5; BORDER-RIGHT-COLOR: #d5d5d5; BORDER-LEFT-COLOR: #d5d5d5; border-radius: 4px 0 0 4px
+}
+.k-syntax-ref {
+	COLOR: #f82
+}
+.k-syntax-num {
+	COLOR: #09f
+}
+.k-syntax-func {
+	FONT-WEIGHT: 700
+}
+.k-syntax-str {
+	COLOR: #38b714
+}
+.k-syntax-error {
+	COLOR: red
+}
+.k-syntax-bool {
+	COLOR: #a9169c
+}
+.k-syntax-startexp {
+	FONT-WEIGHT: 700
+}
+.k-syntax-paren-match {
+	BACKGROUND-COLOR: #caf200
+}
+.k-series-a {
+	BORDER-BOTTOM-COLOR: #ff6800; BORDER-TOP-COLOR: #ff6800; BORDER-RIGHT-COLOR: #ff6800; BORDER-LEFT-COLOR: #ff6800
+}
+.k-series-b {
+	BORDER-BOTTOM-COLOR: #a0a700; BORDER-TOP-COLOR: #a0a700; BORDER-RIGHT-COLOR: #a0a700; BORDER-LEFT-COLOR: #a0a700
+}
+.k-series-c {
+	BORDER-BOTTOM-COLOR: #ff8d00; BORDER-TOP-COLOR: #ff8d00; BORDER-RIGHT-COLOR: #ff8d00; BORDER-LEFT-COLOR: #ff8d00
+}
+.k-series-d {
+	BORDER-BOTTOM-COLOR: #678900; BORDER-TOP-COLOR: #678900; BORDER-RIGHT-COLOR: #678900; BORDER-LEFT-COLOR: #678900
+}
+.k-series-e {
+	BORDER-BOTTOM-COLOR: #ffb53c; BORDER-TOP-COLOR: #ffb53c; BORDER-RIGHT-COLOR: #ffb53c; BORDER-LEFT-COLOR: #ffb53c
+}
+.k-series-f {
+	BORDER-BOTTOM-COLOR: #396000; BORDER-TOP-COLOR: #396000; BORDER-RIGHT-COLOR: #396000; BORDER-LEFT-COLOR: #396000
+}
+.k-spreadsheet-sheets-remove:hover .k-icon {
+	COLOR: #c22
+}
+.k-spreadsheet-formula-list .k-state-focused {
+	BACKGROUND-COLOR: #f35800; COLOR: #fff
+}
+.k-spreadsheet [data-property=fontSize].k-widget {
+	WIDTH: 60px
+}
+.k-spreadsheet [data-property=format].k-widget {
+	WIDTH: 100px
+}
+.k-spreadsheet [data-property=fontFamily].k-widget {
+	WIDTH: 130px
+}
+.k-spreadsheet-toolbar .k-combobox .k-input {
+	COLOR: #2e2e2e
+}
+.k-spreadsheet-toolbar .k-combobox .k-state-active .k-input {
+	COLOR: #2e2e2e
+}
+.k-spreadsheet-toolbar .k-combobox .k-state-focused .k-input {
+	COLOR: #2e2e2e
+}
+.k-spreadsheet-toolbar .k-combobox .k-state-hover .k-input {
+	COLOR: #2e2e2e
+}

@@ -1,0 +1,970 @@
+@font-face {
+	font-family: VideoJS;
+	src:url(font/VideoJS.eot?#iefix) format("eot");
+}
+@font-face {
+	font-family: VideoJS;
+	src:url(data:application/font-woff;charset=utf-8;base64,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) format("woff"), url(data:application/x-font-ttf;charset=utf-8;base64,AAEAAAAKAIAAAwAgT1MvMlGRXgUAAAEoAAAAVmNtYXDiMBC2AAAB/AAAAUpnbHlmW/HoBwAAA4gAAA9QaGVhZAyD6V8AAADQAAAANmhoZWEOogcgAAAArAAAACRobXR42QAAAAAAAYAAAAB8bG9jYTDINOoAAANIAAAAQG1heHABMAB5AAABCAAAACBuYW1l1cf1oAAAEtgAAAIKcG9zdGZEjeMAABTkAAABgQABAAAHAAAAAKEHAAAAAAAHAAABAAAAAAAAAAAAAAAAAAAAHwABAAAAAQAAwdxheF8PPPUACwcAAAAAANMyzzEAAAAA0zLPMQAAAAAHAAcAAAAACAACAAAAAAAAAAEAAAAfAG0ABwAAAAAAAgAAAAoACgAAAP8AAAAAAAAAAQcAAZAABQAIBHEE5gAAAPoEcQTmAAADXABXAc4AAAIABQMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUGZFZABA8QHxHgcAAAAAoQcAAAAAAAABAAAAAAAABwAAAAcAAAAHAAAABwAAAAcAAAAHAAAABwAAAAcAAAAHAAAABwAAAAcAAAAHAAAABwAAAAcAAAAHAAAABwAAAAcAAAAHAAAABwAAAAcAAAAHAAAABwAAAAcAAAAHAAAABwAAAAcAAAAHAAAABwAAAAcAAAAHAAAABwAAAAAAAAMAAAADAAAAHAABAAAAAABEAAMAAQAAABwABAAoAAAABgAEAAEAAgAA8R7//wAAAADxAf//AAAPAAABAAAAAAAAAAABBgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOAFAAZgCyAMYA5gEeAUgBdAGcAfICLgKOAroDCgOOA7AD6gQ4BHwEuAToBQwFogXoBjYGbAbaB3IHqAABAAAAAAWLBYsAAgAAAREBAlUDNgWL++oCCwAAAwAAAAAGawZrAAIADgAaAAAJAhMEAAMSAAUkABMCAAEmACc2ADcWABcGAALrAcD+QJX+w/5aCAgBpgE9AT0BpggI/lr+w/3+rgYGAVL9/QFSBgb+rgIwAVABUAGbCP5a/sP+w/5aCAgBpgE9AT0BpvrIBgFS/f0BUgYG/q79/f6uAAAAAgAAAAAFQAWLAAMABwAAASERKQERIREBwAEr/tUCVQErAXUEFvvqBBYAAAAEAAAAAAYgBiAABgATACQAJwAAAS4BJxUXNjcGBxc+ATUmACcVFhIBBwEhESEBEQEGBxU+ATcXNwEHFwTQAWVVuAO7AidxJSgF/t/lpc77t18BYf6fASsBdQE+TF1OijuZX/1gnJwDgGSeK6W4GBhqW3FGnFT0AWM4mjT+9AHrX/6f/kD+iwH2/sI7HZoSRDGYXwSWnJwAAAEAAAAABKsF1gAFAAABESEBEQECCwEqAXb+igRg/kD+iwSq/osAAAACAAAAAAVmBdYABgAMAAABLgEnET4BAREhAREBBWUBZVRUZfwRASsBdf6LA4Bkniv9piueAUT+QP6LBKr+iwAAAwAAAAAGIAYPAAUADAAaAAATESEBEQEFLgEnET4BAxUWEhcGAgcVNgA3JgDgASsBdf6LAsUBZVVVZbqlzgMDzqXlASEFBf7fBGD+QP6LBKr+i+Bkniv9piueAvOaNP70tbX+9DSaOAFi9fUBYgAAAAQAAAAABYsFiwAFAAsAEQAXAAABIxEhNSMDMzUzNSEBIxUhESMDFTMVMxECC5YBduCWluD+igOA4AF2luDglgLr/oqWAgrglvyAlgF2AqCW4AF2AAQAAAAABYsFiwAFAAsAEQAXAAABMxUzESETIxUhESMBMzUzNSETNSMRITUBdeCW/org4AF2lgHAluD+ipaWAXYCVeABdgHAlgF2++rglgHA4P6KlgAAAAACAAAAAAXWBdYADwATAAABIQ4BBxEeARchPgE3ES4BAyERIQVA/IA/VQEBVT8DgD9VAQFVP/yAA4AF1QFVP/yAP1UBAVU/A4A/VfvsA4AAAAYAAAAABmsGawAHAAwAEwAbACAAKAAACQEmJw4BBwElLgEnAQUhATYSNyYFAQYCBxYXIQUeARcBMwEWFz4BNwECvgFkTlSH8GEBEgOONemh/u4C5f3QAXpcaAEB/BP+3VxoAQEOAjD95DXpoQESeP7dTlSH8GH+7gPwAmgSAQFYUP4nd6X2Pv4nS/1zZAEBk01NAfhk/v+TTUhLpfY+Adn+CBIBAVhQAdkAAAAFAAAAAAZrBdYADwATABcAGwAfAAABIQ4BBxEeARchPgE3ES4BASEVIQEhNSEFITUhNSE1IQXV+1ZAVAICVEAEqkBUAgJU+xYBKv7WAur9FgLqAcD+1gEq/RYC6gXVAVU//IA/VQEBVT8DgD9V/ayV/tWVlZWWlQADAAAAAAYgBdYADwAnAD8AAAEhDgEHER4BFyE+ATcRLgEBIzUjFTM1MxUUBgcjLgEnET4BNzMeARUFIzUjFTM1MxUOAQcjLgE1ETQ2NzMeARcFi/vqP1QCAlQ/BBY/VAICVP1rcJWVcCog4CAqAQEqIOAgKgILcJWVcAEqIOAgKiog4CAqAQXVAVU//IA/VQEBVT8DgD9V/fcl4CVKICoBASogASogKgEBKiBKJeAlSiAqAQEqIAEqICoBASogAAAGAAAAAAYgBPYAAwAHAAsADwATABcAABMzNSMRMzUjETM1IwEhNSERITUhERUhNeCVlZWVlZUBKwQV++sEFfvrBBUDNZb+QJUBwJX+QJb+QJUCVZWVAAAAAQAAAAAGIAZsAC4AAAEiBgcBNjQnAR4BMz4BNy4BJw4BBxQXAS4BIw4BBx4BFzI2NwEGBx4BFz4BNy4BBUArSh797AcHAg8eTixffwICf19ffwIH/fEeTixffwICf18sTh4CFAUBA3tcXHsDA3sCTx8bATcZNhkBNB0gAn9fX38CAn9fGxn+zRwgAn9fX38CIBz+yhcaXHsCAntcXXsAAAIAAAAABlkGawBDAE8AAAE2NCc3PgEnAy4BDwEmLwEuASchDgEPAQYHJyYGBwMGFh8BBhQXBw4BFxMeAT8BFh8BHgEXIT4BPwE2NxcWNjcTNiYnBS4BJz4BNx4BFw4BBasFBZ4KBgeWBxkNujpEHAMUD/7WDxQCHEU5ug0aB5UHBQudBQWdCwUHlQcaDbo5RRwCFA8BKg8UAhxFOboNGgeVBwUL/ThvlAIClG9vlAIClAM3JEokewkaDQEDDAkFSy0cxg4RAQERDsYcLUsFCQz+/QwbCXskSiR7CRoN/v0MCQVLLRzGDhEBAREOxhwtSwUJDAEDDBsJQQKUb2+UAgKUb2+UAAAAAAEAAAAABmsGawALAAATEgAFJAATAgAlBACVCAGmAT0BPQGmCAj+Wv7D/sP+WgOA/sP+WggIAaYBPQE9AaYICP5aAAAAAgAAAAAGawZrAAsAFwAAAQQAAxIABSQAEwIAASYAJzYANxYAFwYAA4D+w/5aCAgBpgE9AT0BpggI/lr+w/3+rgYGAVL9/QFSBgb+rgZrCP5a/sP+w/5aCAgBpgE9AT0BpvrIBgFS/f0BUgYG/q79/f6uAAADAAAAAAZrBmsACwAXACMAAAEEAAMSAAUkABMCAAEmACc2ADcWABcGAAMOAQcuASc+ATceAQOA/sP+WggIAaYBPQE9AaYICP5a/sP9/q4GBgFS/f0BUgYG/q4dAn9fX38CAn9fX38Gawj+Wv7D/sP+WggIAaYBPQE9Aab6yAYBUv39AVIGBv6u/f3+rgJPX38CAn9fX38CAn8AAAAEAAAAAAYgBiAADwAbACUAKQAAASEOAQcRHgEXIT4BNxEuAQEjNSMVIxEzFTM1OwEhHgEXEQ4BByE3MzUjBYv76j9UAgJUPwQWP1QCAlT9a3CVcHCVcJYBKiAqAQEqIP7WcJWVBiACVD/76j9UAgJUPwQWP1T8gpWVAcC7uwEqIP7WICoBcOAAAgAAAAAGawZrAAsAFwAAAQQAAxIABSQAEwIAEwcJAScJATcJARcBA4D+w/5aCAgBpgE9AT0BpggI/lo4af70/vRpAQv+9WkBDAEMaf71BmsI/lr+w/7D/loICAGmAT0BPQGm/BFpAQv+9WkBDAEMaf71AQtp/vQAAQAAAAAF1ga2ABYAAAERCQERHgEXDgEHLgEnIxYAFzYANyYAA4D+iwF1vv0FBf2+vv0FlQYBUf7+AVEGBv6vBYsBKv6L/osBKgT9v779BQX9vv7+rwYGAVH+/gFRAAAAAQAAAAAFPwcAABQAAAERIyIGHQEhAyMRIREjETM1NDYzMgU/nVY8ASUn/v7O///QrZMG9P74SEi9/tj9CQL3ASjaus0AAAAABAAAAAAGjgcAADAARQBgAGwAAAEUHgMVFAcGBCMiJicmNTQ2NzYlLgE1NDcGIyImNTQ2Nz4BMyEHIx4BFRQOAycyNjc2NTQuAiMiBgcGFRQeAxMyPgI1NC4BLwEmLwImIyIOAxUUHgIBMxUjFSM1IzUzNTMDH0BbWkAwSP7qn4TlOSVZSoMBESAfFS4WlMtIP03TcAGiioNKTDFFRjGSJlAaNSI/akAqURkvFCs9WTY6a1s3Dg8THgocJU4QIDVob1M2RnF9A2vV1WnU1GkD5CRFQ1CATlpTenNTYDxHUYouUhIqQCkkMQTBlFKaNkJAWD+MWkhzRztAPiEbOWY6hn1SJyE7ZS5nZ1I0/JcaNF4+GTAkGCMLFx04Ag4kOF07Rms7HQNsbNvbbNkAAwAAAAAGgAZsAAMADgAqAAABESERARYGKwEiJjQ2MhYBESERNCYjIgYHBhURIRIQLwEhFSM+AzMyFgHd/rYBXwFnVAJSZGemZASP/rdRVj9VFQv+twIBAQFJAhQqR2c/q9AEj/whA98BMkliYpNhYfzd/cgCEml3RTMeM/3XAY8B8DAwkCAwOB/jAAABAAAAAAaUBgAAMQAAAQYHFhUUAg4BBCMgJxYzMjcuAScWMzI3LgE9ARYXLgE1NDcWBBcmNTQ2MzIXNjcGBzYGlENfAUyb1v7SrP7x4SMr4bBpph8hHCsqcJNETkJOLHkBW8YIvYaMYG1gJWldBWhiRQ4cgv797rdtkQSKAn1hBQsXsXUEJgMsjlNYS5WzCiYkhr1mFTlzPwoAAAABAAAAAAWABwAAIgAAARcOAQcGLgM1ESM1PgQ3PgE7AREhFSERFB4CNzYFMFAXsFlorXBOIahIckQwFAUBBwT0AU3+sg0gQzBOAc/tIz4BAjhceHg6AiDXGlddb1ctBQf+WPz9+h40NR4BAgABAAAAAAaABoAASgAAARQCBCMiJzY/AR4BMzI+ATU0LgEjIg4DFRQWFxY/ATY3NicmNTQ2MzIWFRQGIyImNz4CNTQmIyIGFRQXAwYXJgI1NBIkIAQSBoDO/p/Rb2s7EzYUaj15vmh34o5ptn9bK1BNHggIBgIGETPRqZepiWs9Sg4IJRc2Mj5WGWMRBM7+zgFhAaIBYc4DgNH+n84gXUfTJzmJ8JZyyH46YH2GQ2ieIAwgHxgGFxQ9WpfZpIOq7lc9I3VZHzJCclVJMf5eRmtbAXzp0QFhzs7+nwAABwAAAAAHAATPAA4AFwAqAD0AUABaAF0AAAERNh4CBw4BBwYmIycmNxY2NzYmBxEUBRY2Nz4BNy4BJyMGHwEeARcOARcWNjc+ATcuAScjBh8BHgEXFAYXFjY3PgE3LgEnIwYfAR4BFw4BBTM/ARUzESMGAyUVJwMchM2UWwgNq4JHrQgBAapUaAoJcWMBfiIhDiMrAQJLMB0BBAokNAIBPmMiIQ4iLAECSzAeAQUKJDQBP2MiIQ4iLAECSzAeAQUKJDQBAT75g+5B4arNLNIBJ44ByQL9BQ9mvYCKwA8FBQMDwwJVTGdzBf6VB8IHNR08lld9uT4LCRA/qGNxvUwHNR08lld9uT4LCRA/qGNxvUwHNR08lld9uT4LCRA/qGNxvVJkAWUDDEf+tYP5AQAAAAEAAAAABiAGtgAbAAABBAADER4BFzMRITU2ADcWABcVIREzPgE3EQIAA4D+4v6FBwJ/X+D+1QYBJ97eAScG/tXgX38CB/6FBrUH/oX+4v32X38CAlWV3gEnBgb+2d6V/asCf18CCgEeAXsAAAAAEADGAAEAAAAAAAEABwAAAAEAAAAAAAIABwAHAAEAAAAAAAMABwAOAAEAAAAAAAQABwAVAAEAAAAAAAUACwAcAAEAAAAAAAYABwAnAAEAAAAAAAoAKwAuAAEAAAAAAAsAEwBZAAMAAQQJAAEADgBsAAMAAQQJAAIADgB6AAMAAQQJAAMADgCIAAMAAQQJAAQADgCWAAMAAQQJAAUAFgCkAAMAAQQJAAYADgC6AAMAAQQJAAoAVgDIAAMAAQQJAAsAJgEeVmlkZW9KU1JlZ3VsYXJWaWRlb0pTVmlkZW9KU1ZlcnNpb24gMS4wVmlkZW9KU0dlbmVyYXRlZCBieSBzdmcydHRmIGZyb20gRm9udGVsbG8gcHJvamVjdC5odHRwOi8vZm9udGVsbG8uY29tAFYAaQBkAGUAbwBKAFMAUgBlAGcAdQBsAGEAcgBWAGkAZABlAG8ASgBTAFYAaQBkAGUAbwBKAFMAVgBlAHIAcwBpAG8AbgAgADEALgAwAFYAaQBkAGUAbwBKAFMARwBlAG4AZQByAGEAdABlAGQAIABiAHkAIABzAHYAZwAyAHQAdABmACAAZgByAG8AbQAgAEYAbwBuAHQAZQBsAGwAbwAgAHAAcgBvAGoAZQBjAHQALgBoAHQAdABwADoALwAvAGYAbwBuAHQAZQBsAGwAbwAuAGMAbwBtAAAAAgAAAAAAAAARAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAfAAABAgEDAQQBBQEGAQcBCAEJAQoBCwEMAQ0BDgEPARABEQESARMBFAEVARYBFwEYARkBGgEbARwBHQEeAR8EcGxheQtwbGF5LWNpcmNsZQVwYXVzZQt2b2x1bWUtbXV0ZQp2b2x1bWUtbG93CnZvbHVtZS1taWQLdm9sdW1lLWhpZ2gQZnVsbHNjcmVlbi1lbnRlcg9mdWxsc2NyZWVuLWV4aXQGc3F1YXJlB3NwaW5uZXIJc3VidGl0bGVzCGNhcHRpb25zCGNoYXB0ZXJzBXNoYXJlA2NvZwZjaXJjbGUOY2lyY2xlLW91dGxpbmUTY2lyY2xlLWlubmVyLWNpcmNsZQJoZAZjYW5jZWwGcmVwbGF5CGZhY2Vib29rBWdwbHVzCGxpbmtlZGluB3R3aXR0ZXIGdHVtYmxyCXBpbnRlcmVzdBFhdWRpby1kZXNjcmlwdGlvbgVhdWRpbwAAAAAA) format("truetype");
+}
+.video-js .vjs-big-play-button:before {
+	POSITION: absolute; WIDTH: 100%; HEIGHT: 100%; TOP: 0px; LEFT: 0px
+}
+.video-js .vjs-control:before {
+	POSITION: absolute; WIDTH: 100%; HEIGHT: 100%; TOP: 0px; LEFT: 0px
+}
+.video-js .vjs-modal-dialog {
+	POSITION: absolute; WIDTH: 100%; HEIGHT: 100%; TOP: 0px; LEFT: 0px
+}
+.vjs-modal-dialog .vjs-modal-dialog-content {
+	POSITION: absolute; WIDTH: 100%; HEIGHT: 100%; TOP: 0px; LEFT: 0px
+}
+.video-js .vjs-big-play-button:before {
+	TEXT-ALIGN: center
+}
+.video-js .vjs-control:before {
+	TEXT-ALIGN: center
+}
+.vjs-icon-play {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.video-js .vjs-big-play-button {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.video-js .vjs-play-control {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-play:before {
+	CONTENT: "\f101"
+}
+.video-js .vjs-big-play-button:before {
+	CONTENT: "\f101"
+}
+.video-js .vjs-play-control:before {
+	CONTENT: "\f101"
+}
+.vjs-icon-play-circle {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-play-circle:before {
+	CONTENT: "\f102"
+}
+.vjs-icon-pause {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.video-js .vjs-playing.vjs-play-control {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-pause:before {
+	CONTENT: "\f103"
+}
+.video-js .vjs-playing.vjs-play-control:before {
+	CONTENT: "\f103"
+}
+.vjs-icon-volume-mute {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.video-js .vjs-vol-0.vjs-mute-control {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.video-js .vjs-vol-0.vjs-volume-menu-button {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-volume-mute:before {
+	CONTENT: "\f104"
+}
+.video-js .vjs-vol-0.vjs-mute-control:before {
+	CONTENT: "\f104"
+}
+.video-js .vjs-vol-0.vjs-volume-menu-button:before {
+	CONTENT: "\f104"
+}
+.vjs-icon-volume-low {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.video-js .vjs-vol-1.vjs-mute-control {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.video-js .vjs-vol-1.vjs-volume-menu-button {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-volume-low:before {
+	CONTENT: "\f105"
+}
+.video-js .vjs-vol-1.vjs-mute-control:before {
+	CONTENT: "\f105"
+}
+.video-js .vjs-vol-1.vjs-volume-menu-button:before {
+	CONTENT: "\f105"
+}
+.vjs-icon-volume-mid {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.video-js .vjs-vol-2.vjs-mute-control {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.video-js .vjs-vol-2.vjs-volume-menu-button {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-volume-mid:before {
+	CONTENT: "\f106"
+}
+.video-js .vjs-vol-2.vjs-mute-control:before {
+	CONTENT: "\f106"
+}
+.video-js .vjs-vol-2.vjs-volume-menu-button:before {
+	CONTENT: "\f106"
+}
+.vjs-icon-volume-high {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.video-js .vjs-mute-control {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.video-js .vjs-volume-menu-button {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-volume-high:before {
+	CONTENT: "\f107"
+}
+.video-js .vjs-mute-control:before {
+	CONTENT: "\f107"
+}
+.video-js .vjs-volume-menu-button:before {
+	CONTENT: "\f107"
+}
+.vjs-icon-fullscreen-enter {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.video-js .vjs-fullscreen-control {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-fullscreen-enter:before {
+	CONTENT: "\f108"
+}
+.video-js .vjs-fullscreen-control:before {
+	CONTENT: "\f108"
+}
+.vjs-icon-fullscreen-exit {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-fullscreen.video-js .vjs-fullscreen-control {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-fullscreen-exit:before {
+	CONTENT: "\f109"
+}
+.vjs-fullscreen.video-js .vjs-fullscreen-control:before {
+	CONTENT: "\f109"
+}
+.vjs-icon-square {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-square:before {
+	CONTENT: "\f10a"
+}
+.vjs-icon-spinner {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-spinner:before {
+	CONTENT: "\f10b"
+}
+.vjs-icon-subtitles {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.video-js .vjs-subtitles-button {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-subtitles:before {
+	CONTENT: "\f10c"
+}
+.video-js .vjs-subtitles-button:before {
+	CONTENT: "\f10c"
+}
+.vjs-icon-captions {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.video-js .vjs-captions-button {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-captions:before {
+	CONTENT: "\f10d"
+}
+.video-js .vjs-captions-button:before {
+	CONTENT: "\f10d"
+}
+.vjs-icon-chapters {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.video-js .vjs-chapters-button {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-chapters:before {
+	CONTENT: "\f10e"
+}
+.video-js .vjs-chapters-button:before {
+	CONTENT: "\f10e"
+}
+.vjs-icon-share {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-share:before {
+	CONTENT: "\f10f"
+}
+.vjs-icon-cog {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-cog:before {
+	CONTENT: "\f110"
+}
+.vjs-icon-circle {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.video-js .vjs-mouse-display {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.video-js .vjs-play-progress {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.video-js .vjs-volume-level {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-circle:before {
+	CONTENT: "\f111"
+}
+.video-js .vjs-mouse-display:before {
+	CONTENT: "\f111"
+}
+.video-js .vjs-play-progress:before {
+	CONTENT: "\f111"
+}
+.video-js .vjs-volume-level:before {
+	CONTENT: "\f111"
+}
+.vjs-icon-circle-outline {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-circle-outline:before {
+	CONTENT: "\f112"
+}
+.vjs-icon-circle-inner-circle {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-circle-inner-circle:before {
+	CONTENT: "\f113"
+}
+.vjs-icon-hd {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-hd:before {
+	CONTENT: "\f114"
+}
+.vjs-icon-cancel {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.video-js .vjs-close-button.vjs-control {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-cancel:before {
+	CONTENT: "\f115"
+}
+.video-js .vjs-close-button.vjs-control:before {
+	CONTENT: "\f115"
+}
+.vjs-icon-replay {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-replay:before {
+	CONTENT: "\f116"
+}
+.vjs-icon-facebook {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-facebook:before {
+	CONTENT: "\f117"
+}
+.vjs-icon-gplus {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-gplus:before {
+	CONTENT: "\f118"
+}
+.vjs-icon-linkedin {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-linkedin:before {
+	CONTENT: "\f119"
+}
+.vjs-icon-twitter {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-twitter:before {
+	CONTENT: "\f11a"
+}
+.vjs-icon-tumblr {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-tumblr:before {
+	CONTENT: "\f11b"
+}
+.vjs-icon-pinterest {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-pinterest:before {
+	CONTENT: "\f11c"
+}
+.vjs-icon-audio-description {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.video-js .vjs-descriptions-button {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-audio-description:before {
+	CONTENT: "\f11d"
+}
+.video-js .vjs-descriptions-button:before {
+	CONTENT: "\f11d"
+}
+.vjs-icon-audio {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.video-js .vjs-audio-button {
+	FONT-STYLE: normal; FONT-FAMILY: VideoJS; FONT-WEIGHT: normal
+}
+.vjs-icon-audio:before {
+	CONTENT: "\f11e"
+}
+.video-js .vjs-audio-button:before {
+	CONTENT: "\f11e"
+}
+.video-js {
+	BOX-SIZING: border-box; POSITION: relative; PADDING-BOTTOM: 0px; LINE-HEIGHT: 1; BACKGROUND-COLOR: #000; FONT-STYLE: normal; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; FONT-FAMILY: Arial, Helvetica, sans-serif; MAX-WIDTH: 100%; COLOR: #fff; FONT-SIZE: 10px; VERTICAL-ALIGN: top; FONT-WEIGHT: normal; PADDING-TOP: 0px; -webkit-user-select: none; -moz-user-select: none; -ms-user-select: none; user-select: none
+}
+.video-js * {
+	BOX-SIZING: inherit
+}
+.video-js *:before {
+	BOX-SIZING: inherit
+}
+.video-js *:after {
+	BOX-SIZING: inherit
+}
+.video-js UL {
+	LIST-STYLE-POSITION: outside; LINE-HEIGHT: inherit; MARGIN: 0px; FONT-FAMILY: inherit; FONT-SIZE: inherit
+}
+.vjs-fluid.video-js {
+	WIDTH: 100%; MAX-WIDTH: 100%; HEIGHT: 0px
+}
+.vjs-16-9.video-js {
+	WIDTH: 100%; MAX-WIDTH: 100%; HEIGHT: 0px
+}
+.vjs-4-3.video-js {
+	WIDTH: 100%; MAX-WIDTH: 100%; HEIGHT: 0px
+}
+.vjs-16-9.video-js {
+	PADDING-TOP: 56.25%
+}
+.vjs-4-3.video-js {
+	PADDING-TOP: 75%
+}
+.vjs-fill.video-js {
+	WIDTH: 100%; HEIGHT: 100%
+}
+.video-js .vjs-tech {
+	POSITION: relative; WIDTH: 100%; MAX-WIDTH: 100%; HEIGHT: 100%; TOP: 0px; LEFT: 0px
+}
+BODY.vjs-full-window {
+	PADDING-BOTTOM: 0px; OVERFLOW-Y: auto; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; HEIGHT: 100%; PADDING-TOP: 0px
+}
+.vjs-full-window .vjs-fullscreen.video-js {
+	Z-INDEX: 1000; POSITION: fixed; BOTTOM: 0px; OVERFLOW: hidden; TOP: 0px; RIGHT: 0px; LEFT: 0px
+}
+.vjs-fullscreen.video-js {
+	WIDTH: 100% !important; HEIGHT: 100% !important; PADDING-TOP: 0px !important
+}
+.vjs-user-inactive.vjs-fullscreen.video-js {
+	CURSOR: none
+}
+.vjs-hidden {
+	DISPLAY: none !important
+}
+.vjs-disabled {
+	CURSOR: default; opacity: 0.5
+}
+.video-js .vjs-offscreen {
+	POSITION: absolute; WIDTH: 1px; HEIGHT: 1px; TOP: 0px; LEFT: -9999px
+}
+.vjs-lock-showing {
+	DISPLAY: block !important; VISIBILITY: visible; opacity: 1
+}
+.vjs-no-js {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 20px; BACKGROUND-COLOR: #000; MARGIN: 0px auto; PADDING-LEFT: 20px; PADDING-RIGHT: 20px; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #fff; FONT-SIZE: 18px; PADDING-TOP: 20px
+}
+.vjs-no-js A {
+	COLOR: #66a8cc
+}
+.vjs-no-js A:visited {
+	COLOR: #66a8cc
+}
+.video-js .vjs-big-play-button {
+	BORDER-BOTTOM: #fff 0.06em solid; POSITION: absolute; BORDER-LEFT: #fff 0.06em solid; PADDING-BOTTOM: 0px; LINE-HEIGHT: 1.5em; BACKGROUND-COLOR: #2b333f; PADDING-LEFT: 0px; WIDTH: 3em; PADDING-RIGHT: 0px; DISPLAY: block; HEIGHT: 1.5em; FONT-SIZE: 3em; BORDER-TOP: #fff 0.06em solid; TOP: 10px; CURSOR: pointer; BORDER-RIGHT: #fff 0.06em solid; PADDING-TOP: 0px; LEFT: 10px; border-radius: 0.3em; opacity: 1; -webkit-transition: all 0.4s; -moz-transition: all 0.4s; -o-transition: all 0.4s; transition: all 0.4s; -moz-border-radius: 0.3em; -webkit-border-radius: 0.3em
+}
+.vjs-big-play-centered .vjs-big-play-button {
+	MARGIN-TOP: -0.75em; MARGIN-LEFT: -1.5em; TOP: 50%; LEFT: 50%
+}
+.video-js:hover .vjs-big-play-button {
+	BORDER-BOTTOM-COLOR: #fff; BACKGROUND-COLOR: #73859f; BORDER-TOP-COLOR: #fff; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: 0px; BORDER-RIGHT-COLOR: #fff; BORDER-LEFT-COLOR: #fff; -webkit-transition: all 0s; -moz-transition: all 0s; -o-transition: all 0s; transition: all 0s
+}
+.video-js .vjs-big-play-button:focus {
+	BORDER-BOTTOM-COLOR: #fff; BACKGROUND-COLOR: #73859f; BORDER-TOP-COLOR: #fff; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: 0px; BORDER-RIGHT-COLOR: #fff; BORDER-LEFT-COLOR: #fff; -webkit-transition: all 0s; -moz-transition: all 0s; -o-transition: all 0s; transition: all 0s
+}
+.vjs-controls-disabled .vjs-big-play-button {
+	DISPLAY: none
+}
+.vjs-has-started .vjs-big-play-button {
+	DISPLAY: none
+}
+.vjs-using-native-controls .vjs-big-play-button {
+	DISPLAY: none
+}
+.vjs-error .vjs-big-play-button {
+	DISPLAY: none
+}
+.video-js BUTTON {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; LINE-HEIGHT: inherit; TEXT-TRANSFORM: none; DISPLAY: inline-block; BACKGROUND: none transparent scroll repeat 0% 0%; COLOR: inherit; FONT-SIZE: inherit; OVERFLOW: visible; BORDER-TOP: medium none; BORDER-RIGHT: medium none; TEXT-DECORATION: none; transition: none; -webkit-appearance: none; -moz-appearance: none; appearance: none
+}
+.video-js .vjs-close-button.vjs-control {
+	Z-INDEX: 2; POSITION: absolute; HEIGHT: 3em; TOP: 0.5em; CURSOR: pointer; RIGHT: 0px
+}
+.vjs-menu-button {
+	CURSOR: pointer
+}
+.vjs-disabled.vjs-menu-button {
+	CURSOR: default
+}
+.vjs-workinghover .vjs-disabled.vjs-menu-button:hover .vjs-menu {
+	DISPLAY: none
+}
+.vjs-menu .vjs-menu-content {
+	PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; DISPLAY: block; FONT-FAMILY: Arial, Helvetica, sans-serif; OVERFLOW: auto; PADDING-TOP: 0px
+}
+.vjs-scrubbing .vjs-menu-button:hover .vjs-menu {
+	DISPLAY: none
+}
+.vjs-menu LI {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0.2em; LINE-HEIGHT: 1.4em; TEXT-TRANSFORM: lowercase; LIST-STYLE-TYPE: none; MARGIN: 0px; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-SIZE: 1.2em; LIST-STYLE-IMAGE: none; PADDING-TOP: 0.2em
+}
+.vjs-menu LI:focus {
+	BACKGROUND-COLOR: #73859f; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: 0px
+}
+.vjs-menu LI:hover {
+	BACKGROUND-COLOR: #73859f; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; OUTLINE-WIDTH: 0px
+}
+.vjs-menu LI.vjs-selected {
+	BACKGROUND-COLOR: #fff; COLOR: #2b333f
+}
+.vjs-menu LI.vjs-selected:focus {
+	BACKGROUND-COLOR: #fff; COLOR: #2b333f
+}
+.vjs-menu LI.vjs-selected:hover {
+	BACKGROUND-COLOR: #fff; COLOR: #2b333f
+}
+.vjs-menu LI.vjs-menu-title {
+	TEXT-ALIGN: center; PADDING-BOTTOM: 0px; LINE-HEIGHT: 2em; TEXT-TRANSFORM: uppercase; MARGIN: 0px 0px 0.3em; PADDING-LEFT: 0px; PADDING-RIGHT: 0px; FONT-SIZE: 1em; CURSOR: default; FONT-WEIGHT: bold; PADDING-TOP: 0px
+}
+.vjs-menu-button-popup .vjs-menu {
+	POSITION: absolute; WIDTH: 10em; BOTTOM: 0px; DISPLAY: none; MARGIN-BOTTOM: 1.5em; HEIGHT: 0em; LEFT: -3em
+}
+.vjs-menu-button-popup .vjs-menu .vjs-menu-content {
+	POSITION: absolute; BACKGROUND-COLOR: #2b333f; WIDTH: 100%; BOTTOM: 1.5em; MAX-HEIGHT: 15em
+}
+.vjs-workinghover .vjs-menu-button-popup:hover .vjs-menu {
+	DISPLAY: block
+}
+.vjs-menu-button-popup .vjs-lock-showing.vjs-menu {
+	DISPLAY: block
+}
+.video-js .vjs-menu-button-inline {
+	OVERFLOW: hidden; -webkit-transition: all 0.4s; -moz-transition: all 0.4s; -o-transition: all 0.4s; transition: all 0.4s
+}
+.video-js .vjs-menu-button-inline:before {
+	WIDTH: 2.22em
+}
+.video-js .vjs-menu-button-inline:hover {
+	WIDTH: 12em
+}
+.video-js .vjs-menu-button-inline:focus {
+	WIDTH: 12em
+}
+.video-js .vjs-slider-active.vjs-menu-button-inline {
+	WIDTH: 12em
+}
+.vjs-no-flex.video-js .vjs-menu-button-inline {
+	WIDTH: 12em
+}
+.video-js .vjs-slider-active.vjs-menu-button-inline {
+	-webkit-transition: none; -moz-transition: none; -o-transition: none; transition: none
+}
+.vjs-menu-button-inline .vjs-menu {
+	POSITION: absolute; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: auto; PADDING-RIGHT: 0px; HEIGHT: 100%; TOP: 0px; PADDING-TOP: 0px; LEFT: 4em; opacity: 0; -webkit-transition: all 0.4s; -moz-transition: all 0.4s; -o-transition: all 0.4s; transition: all 0.4s
+}
+.vjs-menu-button-inline:hover .vjs-menu {
+	DISPLAY: block; opacity: 1
+}
+.vjs-menu-button-inline:focus .vjs-menu {
+	DISPLAY: block; opacity: 1
+}
+.vjs-slider-active.vjs-menu-button-inline .vjs-menu {
+	DISPLAY: block; opacity: 1
+}
+.vjs-no-flex .vjs-menu-button-inline .vjs-menu {
+	POSITION: relative; WIDTH: auto; DISPLAY: block; opacity: 1
+}
+.vjs-no-flex .vjs-menu-button-inline:hover .vjs-menu {
+	WIDTH: auto
+}
+.vjs-no-flex .vjs-menu-button-inline:focus .vjs-menu {
+	WIDTH: auto
+}
+.vjs-no-flex .vjs-slider-active.vjs-menu-button-inline .vjs-menu {
+	WIDTH: auto
+}
+.vjs-menu-button-inline .vjs-menu-content {
+	MARGIN: 0px; WIDTH: auto; HEIGHT: 100%; OVERFLOW: hidden
+}
+.video-js .vjs-control-bar {
+	POSITION: absolute; BACKGROUND-COLOR: #2b333f; WIDTH: 100%; BOTTOM: 0px; DISPLAY: none; HEIGHT: 3em; RIGHT: 0px; LEFT: 0px
+}
+.vjs-has-started .vjs-control-bar {
+	VISIBILITY: visible; opacity: 1; -webkit-transition: visibility 0.1s, opacity 0.1s; -moz-transition: visibility 0.1s, opacity 0.1s; -o-transition: visibility 0.1s, opacity 0.1s; transition: visibility 0.1s, opacity 0.1s
+}
+.vjs-playing.vjs-user-inactive.vjs-has-started .vjs-control-bar {
+	VISIBILITY: visible; opacity: 0; -webkit-transition: visibility 1s, opacity 1s; -moz-transition: visibility 1s, opacity 1s; -o-transition: visibility 1s, opacity 1s; transition: visibility 1s, opacity 1s
+}
+
+@media All    
+{
+.vjs-playing.vjs-user-inactive.vjs-has-started .vjs-control-bar {
+	VISIBILITY: hidden
+}
+    }
+.vjs-controls-disabled .vjs-control-bar {
+	DISPLAY: none !important
+}
+.vjs-using-native-controls .vjs-control-bar {
+	DISPLAY: none !important
+}
+.vjs-error .vjs-control-bar {
+	DISPLAY: none !important
+}
+.vjs-playing.vjs-user-inactive.vjs-has-started.vjs-audio .vjs-control-bar {
+	VISIBILITY: visible; opacity: 1
+}
+
+@media All    
+{
+.vjs-playing.vjs-user-inactive .vjs-control-bar :before {
+	CONTENT: ""
+}
+    }
+.vjs-no-flex.vjs-has-started .vjs-control-bar {
+	DISPLAY: table
+}
+.video-js .vjs-control {
+	POSITION: relative; TEXT-ALIGN: center; PADDING-BOTTOM: 0px; MARGIN: 0px; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; PADDING-LEFT: 0px; OUTLINE-WIDTH: medium; WIDTH: 4em; PADDING-RIGHT: 0px; HEIGHT: 100%; PADDING-TOP: 0px; -webkit-box-flex: none; -webkit-flex: none; -ms-flex: none; flex: none; -moz-box-flex: none
+}
+.video-js .vjs-control:before {
+	LINE-HEIGHT: 1.67; FONT-SIZE: 1.8em
+}
+.video-js .vjs-control:focus:before {
+	text-shadow: 0em 0em 1em white
+}
+.video-js .vjs-control:hover:before {
+	text-shadow: 0em 0em 1em white
+}
+.video-js .vjs-control:focus {
+	text-shadow: 0em 0em 1em white
+}
+.video-js .vjs-control-text {
+	CLIP: rect(0px 0px 0px 0px); BORDER-BOTTOM: 0px; POSITION: absolute; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; MARGIN: -1px; PADDING-LEFT: 0px; WIDTH: 1px; PADDING-RIGHT: 0px; HEIGHT: 1px; OVERFLOW: hidden; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.vjs-no-flex .vjs-control {
+	DISPLAY: table-cell; VERTICAL-ALIGN: middle
+}
+.video-js .vjs-custom-control-spacer {
+	DISPLAY: none
+}
+.video-js .vjs-progress-control {
+	MIN-WIDTH: 4em; -webkit-box-align: center; -webkit-align-items: center; -ms-flex-align: center; align-items: center; -webkit-box-flex: auto; -webkit-flex: auto; -ms-flex: auto; flex: auto; -moz-box-flex: auto
+}
+.vjs-live .vjs-progress-control {
+	DISPLAY: none
+}
+.video-js .vjs-progress-holder {
+	HEIGHT: 0.3em; -webkit-transition: all 0.2s; -moz-transition: all 0.2s; -o-transition: all 0.2s; transition: all 0.2s; -webkit-box-flex: auto; -webkit-flex: auto; -ms-flex: auto; flex: auto; -moz-box-flex: auto
+}
+.video-js .vjs-progress-control:hover .vjs-progress-holder {
+	FONT-SIZE: 1.66em
+}
+.video-js .vjs-progress-control:hover .vjs-time-tooltip {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; VISIBILITY: visible; FONT-SIZE: 0.6em
+}
+.video-js .vjs-progress-control:hover .vjs-mouse-display:after {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; VISIBILITY: visible; FONT-SIZE: 0.6em
+}
+.video-js .vjs-progress-control:hover .vjs-play-progress:after {
+	FONT-FAMILY: Arial, Helvetica, sans-serif; VISIBILITY: visible; FONT-SIZE: 0.6em
+}
+.video-js .vjs-progress-holder .vjs-play-progress {
+	POSITION: absolute; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 0px; PADDING-RIGHT: 0px; DISPLAY: block; HEIGHT: 0.3em; TOP: 0px; PADDING-TOP: 0px; LEFT: 0px
+}
+.video-js .vjs-progress-holder .vjs-load-progress {
+	POSITION: absolute; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 0px; PADDING-RIGHT: 0px; DISPLAY: block; HEIGHT: 0.3em; TOP: 0px; PADDING-TOP: 0px; LEFT: 0px
+}
+.video-js .vjs-progress-holder .vjs-tooltip-progress-bar {
+	POSITION: absolute; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 0px; PADDING-RIGHT: 0px; DISPLAY: block; HEIGHT: 0.3em; TOP: 0px; PADDING-TOP: 0px; LEFT: 0px
+}
+.video-js .vjs-progress-holder .vjs-load-progress DIV {
+	POSITION: absolute; PADDING-BOTTOM: 0px; MARGIN: 0px; PADDING-LEFT: 0px; WIDTH: 0px; PADDING-RIGHT: 0px; DISPLAY: block; HEIGHT: 0.3em; TOP: 0px; PADDING-TOP: 0px; LEFT: 0px
+}
+.video-js .vjs-mouse-display:before {
+	DISPLAY: none
+}
+.video-js .vjs-play-progress {
+	BACKGROUND-COLOR: #fff
+}
+.video-js .vjs-play-progress:before {
+	POSITION: absolute; FONT-SIZE: 0.9em; TOP: -0.33em; RIGHT: -0.5em
+}
+.video-js .vjs-time-tooltip {
+	POSITION: absolute; PADDING-BOTTOM: 8px; BACKGROUND-COLOR: #fff; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; VISIBILITY: hidden; COLOR: #000; FONT-SIZE: 0.9em; CONTENT: attr(data-current-time); TOP: -3.4em; RIGHT: -1.9em; PADDING-TOP: 6px; border-radius: 0.3em; -moz-border-radius: 0.3em; -webkit-border-radius: 0.3em; pointer-events: none
+}
+.video-js .vjs-mouse-display:after {
+	POSITION: absolute; PADDING-BOTTOM: 8px; BACKGROUND-COLOR: #fff; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; VISIBILITY: hidden; COLOR: #000; FONT-SIZE: 0.9em; CONTENT: attr(data-current-time); TOP: -3.4em; RIGHT: -1.9em; PADDING-TOP: 6px; border-radius: 0.3em; -moz-border-radius: 0.3em; -webkit-border-radius: 0.3em; pointer-events: none
+}
+.video-js .vjs-play-progress:after {
+	POSITION: absolute; PADDING-BOTTOM: 8px; BACKGROUND-COLOR: #fff; PADDING-LEFT: 8px; PADDING-RIGHT: 8px; VISIBILITY: hidden; COLOR: #000; FONT-SIZE: 0.9em; CONTENT: attr(data-current-time); TOP: -3.4em; RIGHT: -1.9em; PADDING-TOP: 6px; border-radius: 0.3em; -moz-border-radius: 0.3em; -webkit-border-radius: 0.3em; pointer-events: none
+}
+.video-js .vjs-time-tooltip {
+	Z-INDEX: 1
+}
+.video-js .vjs-play-progress:before {
+	Z-INDEX: 1
+}
+.video-js .vjs-play-progress:after {
+	Z-INDEX: 1
+}
+.video-js .vjs-progress-control .vjs-keep-tooltips-inside:after {
+	DISPLAY: none
+}
+.video-js .vjs-load-progress {
+	BACKGROUND: #bfc7d3
+}
+.video-js .vjs-load-progress DIV {
+	BACKGROUND: white
+}
+.vjs-no-flex.video-js .vjs-progress-control {
+	WIDTH: auto
+}
+.video-js .vjs-time-tooltip {
+	POSITION: relative; DISPLAY: inline-block; FLOAT: right; HEIGHT: 2.4em; RIGHT: -1.9em
+}
+.vjs-tooltip-progress-bar {
+	VISIBILITY: hidden
+}
+.video-js .vjs-progress-control .vjs-mouse-display {
+	Z-INDEX: 1; POSITION: absolute; BACKGROUND-COLOR: #000; WIDTH: 1px; DISPLAY: none; HEIGHT: 100%
+}
+.vjs-no-flex .vjs-progress-control .vjs-mouse-display {
+	Z-INDEX: 0
+}
+.video-js .vjs-progress-control:hover .vjs-mouse-display {
+	DISPLAY: block
+}
+.vjs-user-inactive.video-js .vjs-progress-control .vjs-mouse-display {
+	VISIBILITY: hidden; opacity: 0; -webkit-transition: visibility 1s, opacity 1s; -moz-transition: visibility 1s, opacity 1s; -o-transition: visibility 1s, opacity 1s; transition: visibility 1s, opacity 1s
+}
+.vjs-user-inactive.video-js .vjs-progress-control .vjs-mouse-display:after {
+	VISIBILITY: hidden; opacity: 0; -webkit-transition: visibility 1s, opacity 1s; -moz-transition: visibility 1s, opacity 1s; -o-transition: visibility 1s, opacity 1s; transition: visibility 1s, opacity 1s
+}
+.vjs-no-flex.vjs-user-inactive.video-js .vjs-progress-control .vjs-mouse-display {
+	DISPLAY: none
+}
+.vjs-no-flex.vjs-user-inactive.video-js .vjs-progress-control .vjs-mouse-display:after {
+	DISPLAY: none
+}
+.vjs-mouse-display .vjs-time-tooltip {
+	BACKGROUND-COLOR: #000; COLOR: #fff
+}
+.video-js .vjs-progress-control .vjs-mouse-display:after {
+	BACKGROUND-COLOR: #000; COLOR: #fff
+}
+.video-js .vjs-slider {
+	POSITION: relative; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #73859f; MARGIN: 0px 0.45em; OUTLINE-STYLE: none; OUTLINE-COLOR: invert; PADDING-LEFT: 0px; OUTLINE-WIDTH: 0px; PADDING-RIGHT: 0px; CURSOR: pointer; PADDING-TOP: 0px
+}
+.video-js .vjs-slider:focus {
+	-moz-box-shadow: 0 0 1em #fff; -webkit-box-shadow: 0 0 1em #fff; box-shadow: 0 0 1em #fff; text-shadow: 0em 0em 1em white
+}
+.video-js .vjs-mute-control {
+	CURSOR: pointer; -webkit-box-flex: none; -webkit-flex: none; -ms-flex: none; flex: none; -moz-box-flex: none
+}
+.video-js .vjs-volume-menu-button {
+	CURSOR: pointer; -webkit-box-flex: none; -webkit-flex: none; -ms-flex: none; flex: none; -moz-box-flex: none
+}
+.video-js .vjs-volume-control {
+	WIDTH: 5em; -webkit-box-align: center; -webkit-align-items: center; -ms-flex-align: center; align-items: center; -webkit-box-flex: none; -webkit-flex: none; -ms-flex: none; flex: none; -moz-box-flex: none
+}
+.video-js .vjs-volume-bar {
+	MARGIN: 1.35em 0.45em
+}
+.vjs-slider-horizontal.vjs-volume-bar {
+	WIDTH: 5em; HEIGHT: 0.3em
+}
+.vjs-slider-vertical.vjs-volume-bar {
+	MARGIN: 1.35em auto; WIDTH: 0.3em; HEIGHT: 5em
+}
+.video-js .vjs-volume-level {
+	POSITION: absolute; BACKGROUND-COLOR: #fff; BOTTOM: 0px; LEFT: 0px
+}
+.video-js .vjs-volume-level:before {
+	POSITION: absolute; FONT-SIZE: 0.9em
+}
+.vjs-slider-vertical .vjs-volume-level {
+	WIDTH: 0.3em
+}
+.vjs-slider-vertical .vjs-volume-level:before {
+	TOP: -0.5em; LEFT: -0.3em
+}
+.vjs-slider-horizontal .vjs-volume-level {
+	HEIGHT: 0.3em
+}
+.vjs-slider-horizontal .vjs-volume-level:before {
+	TOP: -0.3em; RIGHT: -0.5em
+}
+.vjs-slider-vertical.vjs-volume-bar .vjs-volume-level {
+	HEIGHT: 100%
+}
+.vjs-slider-horizontal.vjs-volume-bar .vjs-volume-level {
+	WIDTH: 100%
+}
+.vjs-volume-menu-button.vjs-menu-button-popup .vjs-menu {
+	BORDER-TOP-COLOR: transparent; WIDTH: 0px; DISPLAY: block; HEIGHT: 0px
+}
+.vjs-volume-menu-button-vertical.vjs-menu-button-popup .vjs-menu {
+	HEIGHT: 8em; LEFT: 0.5em
+}
+.vjs-volume-menu-button-horizontal.vjs-menu-button-popup .vjs-menu {
+	LEFT: -2em
+}
+.vjs-volume-menu-button.vjs-menu-button-popup .vjs-menu-content {
+	OVERFLOW-X: hidden; OVERFLOW-Y: hidden; WIDTH: 0px; HEIGHT: 0px
+}
+.vjs-volume-menu-button-vertical:hover .vjs-menu-content {
+	WIDTH: 2.9em; HEIGHT: 8em
+}
+.vjs-volume-menu-button-vertical:focus .vjs-menu-content {
+	WIDTH: 2.9em; HEIGHT: 8em
+}
+.vjs-slider-active.vjs-volume-menu-button-vertical .vjs-menu-content {
+	WIDTH: 2.9em; HEIGHT: 8em
+}
+.vjs-volume-menu-button-vertical .vjs-lock-showing .vjs-menu-content {
+	WIDTH: 2.9em; HEIGHT: 8em
+}
+.vjs-volume-menu-button-horizontal:hover .vjs-menu-content {
+	WIDTH: 8em; HEIGHT: 2.9em
+}
+.vjs-volume-menu-button-horizontal:focus .vjs-menu-content {
+	WIDTH: 8em; HEIGHT: 2.9em
+}
+.vjs-volume-menu-button-horizontal .vjs-slider-active .vjs-menu-content {
+	WIDTH: 8em; HEIGHT: 2.9em
+}
+.vjs-volume-menu-button-horizontal .vjs-lock-showing .vjs-menu-content {
+	WIDTH: 8em; HEIGHT: 2.9em
+}
+.vjs-menu-button-inline.vjs-volume-menu-button .vjs-menu-content {
+	BACKGROUND-COLOR: transparent !important
+}
+.vjs-poster {
+	POSITION: absolute; PADDING-BOTTOM: 0px; BACKGROUND-COLOR: #000000; MARGIN: 0px; PADDING-LEFT: 0px; BOTTOM: 0px; PADDING-RIGHT: 0px; DISPLAY: inline-block; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: 50% 50%; HEIGHT: 100%; VERTICAL-ALIGN: middle; TOP: 0px; CURSOR: pointer; RIGHT: 0px; PADDING-TOP: 0px; LEFT: 0px; background-size: contain
+}
+.vjs-poster IMG {
+	PADDING-BOTTOM: 0px; MARGIN: 0px auto; PADDING-LEFT: 0px; WIDTH: 100%; PADDING-RIGHT: 0px; DISPLAY: block; MAX-HEIGHT: 100%; VERTICAL-ALIGN: middle; PADDING-TOP: 0px
+}
+.vjs-has-started .vjs-poster {
+	DISPLAY: none
+}
+.vjs-has-started.vjs-audio .vjs-poster {
+	DISPLAY: block
+}
+.vjs-controls-disabled .vjs-poster {
+	DISPLAY: none
+}
+.vjs-using-native-controls .vjs-poster {
+	DISPLAY: none
+}
+.video-js .vjs-live-control {
+	LINE-HEIGHT: 3em; FONT-SIZE: 1em; -webkit-box-align: flex-start; -webkit-align-items: flex-start; -ms-flex-align: flex-start; align-items: flex-start; -webkit-box-flex: auto; -webkit-flex: auto; -ms-flex: auto; flex: auto; -moz-box-flex: auto
+}
+.vjs-no-flex .vjs-live-control {
+	TEXT-ALIGN: left; WIDTH: auto; DISPLAY: table-cell
+}
+.video-js .vjs-time-control {
+	MIN-WIDTH: 2em; LINE-HEIGHT: 3em; PADDING-LEFT: 1em; WIDTH: auto; PADDING-RIGHT: 1em; FONT-SIZE: 1em; -webkit-box-flex: none; -webkit-flex: none; -ms-flex: none; flex: none; -moz-box-flex: none
+}
+.vjs-live .vjs-time-control {
+	DISPLAY: none
+}
+.video-js .vjs-current-time {
+	DISPLAY: none
+}
+.vjs-no-flex .vjs-current-time {
+	DISPLAY: none
+}
+.video-js .vjs-duration {
+	DISPLAY: none
+}
+.vjs-no-flex .vjs-duration {
+	DISPLAY: none
+}
+.vjs-time-divider {
+	LINE-HEIGHT: 3em; DISPLAY: none
+}
+.vjs-live .vjs-time-divider {
+	DISPLAY: none
+}
+.video-js .vjs-play-control {
+	CURSOR: pointer; -webkit-box-flex: none; -webkit-flex: none; -ms-flex: none; flex: none; -moz-box-flex: none
+}
+.vjs-text-track-display {
+	POSITION: absolute; BOTTOM: 3em; TOP: 0px; RIGHT: 0px; LEFT: 0px; pointer-events: none
+}
+.vjs-playing.vjs-user-inactive.video-js .vjs-text-track-display {
+	BOTTOM: 1em
+}
+.video-js .vjs-text-track {
+	TEXT-ALIGN: center; BACKGROUND-COLOR: #000; MARGIN-BOTTOM: 0.1em; FONT-SIZE: 1.4em
+}
+.vjs-subtitles {
+	COLOR: #fff
+}
+.vjs-captions {
+	COLOR: #fc6
+}
+.vjs-tt-cue {
+	DISPLAY: block
+}
+.video-js .vjs-fullscreen-control {
+	CURSOR: pointer; -webkit-box-flex: none; -webkit-flex: none; -ms-flex: none; flex: none; -moz-box-flex: none
+}
+.vjs-playback-rate .vjs-playback-rate-value {
+	POSITION: absolute; TEXT-ALIGN: center; LINE-HEIGHT: 2; WIDTH: 100%; HEIGHT: 100%; FONT-SIZE: 1.5em; TOP: 0px; LEFT: 0px
+}
+.vjs-playback-rate .vjs-menu {
+	WIDTH: 4em; LEFT: 0em
+}
+.vjs-error .vjs-error-display .vjs-modal-dialog-content {
+	TEXT-ALIGN: center; FONT-SIZE: 1.4em
+}
+.vjs-error .vjs-error-display:before {
+	POSITION: absolute; TEXT-ALIGN: center; LINE-HEIGHT: 1; MARGIN-TOP: -0.5em; WIDTH: 100%; FONT-FAMILY: Arial, Helvetica, sans-serif; COLOR: #fff; FONT-SIZE: 4em; VERTICAL-ALIGN: middle; CONTENT: 'X'; TOP: 50%; LEFT: 0px; text-shadow: 0.05em 0.05em 0.1em #000
+}
+.vjs-loading-spinner {
+	BOX-SIZING: border-box; POSITION: absolute; TEXT-ALIGN: left; MARGIN: -25px 0px 0px -25px; WIDTH: 50px; DISPLAY: none; HEIGHT: 50px; TOP: 50%; LEFT: 50%; border-radius: 25px; opacity: 0.85; background-clip: padding-box
+}
+.vjs-seeking .vjs-loading-spinner {
+	DISPLAY: block
+}
+.vjs-waiting .vjs-loading-spinner {
+	DISPLAY: block
+}
+.vjs-loading-spinner:before {
+	BOX-SIZING: inherit; BORDER-BOTTOM: ; POSITION: absolute; BORDER-LEFT: ; MARGIN: -6px; WIDTH: inherit; HEIGHT: inherit; BORDER-TOP: ; CONTENT: ""; BORDER-RIGHT: ; border-radius: inherit; opacity: 1
+}
+.vjs-loading-spinner:after {
+	BOX-SIZING: inherit; BORDER-BOTTOM: ; POSITION: absolute; BORDER-LEFT: ; MARGIN: -6px; WIDTH: inherit; HEIGHT: inherit; BORDER-TOP: ; CONTENT: ""; BORDER-RIGHT: ; border-radius: inherit; opacity: 1
+}
+.vjs-seeking .vjs-loading-spinner:before {
+	-webkit-animation: vjs-spinner-spin 1.1s cubic-bezier(0.6, 0.2, 0, 0.8) infinite, vjs-spinner-fade 1.1s linear infinite; animation: vjs-spinner-spin 1.1s cubic-bezier(0.6, 0.2, 0, 0.8) infinite, vjs-spinner-fade 1.1s linear infinite
+}
+.vjs-seeking .vjs-loading-spinner:after {
+	-webkit-animation: vjs-spinner-spin 1.1s cubic-bezier(0.6, 0.2, 0, 0.8) infinite, vjs-spinner-fade 1.1s linear infinite; animation: vjs-spinner-spin 1.1s cubic-bezier(0.6, 0.2, 0, 0.8) infinite, vjs-spinner-fade 1.1s linear infinite
+}
+.vjs-waiting .vjs-loading-spinner:before {
+	-webkit-animation: vjs-spinner-spin 1.1s cubic-bezier(0.6, 0.2, 0, 0.8) infinite, vjs-spinner-fade 1.1s linear infinite; animation: vjs-spinner-spin 1.1s cubic-bezier(0.6, 0.2, 0, 0.8) infinite, vjs-spinner-fade 1.1s linear infinite
+}
+.vjs-waiting .vjs-loading-spinner:after {
+	-webkit-animation: vjs-spinner-spin 1.1s cubic-bezier(0.6, 0.2, 0, 0.8) infinite, vjs-spinner-fade 1.1s linear infinite; animation: vjs-spinner-spin 1.1s cubic-bezier(0.6, 0.2, 0, 0.8) infinite, vjs-spinner-fade 1.1s linear infinite
+}
+.vjs-seeking .vjs-loading-spinner:before {
+	BORDER-TOP-COLOR: white
+}
+.vjs-waiting .vjs-loading-spinner:before {
+	BORDER-TOP-COLOR: white
+}
+.vjs-seeking .vjs-loading-spinner:after {
+	BORDER-TOP-COLOR: white; -webkit-animation-delay: 0.44s; animation-delay: 0.44s
+}
+.vjs-waiting .vjs-loading-spinner:after {
+	BORDER-TOP-COLOR: white; -webkit-animation-delay: 0.44s; animation-delay: 0.44s
+}
+.vjs-chapters-button .vjs-menu UL {
+	WIDTH: 24em
+}
+.vjs-caption-settings {
+	POSITION: relative; PADDING-BOTTOM: 0.5em; BACKGROUND-COLOR: #2b333f; MARGIN: 0px auto; PADDING-LEFT: 0.5em; WIDTH: 40em; PADDING-RIGHT: 0.5em; HEIGHT: 16em; COLOR: #fff; FONT-SIZE: 12px; TOP: 1em; PADDING-TOP: 0.5em
+}
+.vjs-caption-settings .vjs-tracksettings {
+	POSITION: absolute; BOTTOM: 1em; OVERFLOW: auto; TOP: 0px; RIGHT: 0px; LEFT: 0px
+}
+.vjs-caption-settings .vjs-tracksettings-colors {
+	FLOAT: left
+}
+.vjs-caption-settings .vjs-tracksettings-font {
+	FLOAT: left
+}
+.vjs-caption-settings .vjs-tracksettings-colors:after {
+	CLEAR: both
+}
+.vjs-caption-settings .vjs-tracksettings-font:after {
+	CLEAR: both
+}
+.vjs-caption-settings .vjs-tracksettings-controls:after {
+	CLEAR: both
+}
+.vjs-caption-settings .vjs-tracksettings-controls {
+	POSITION: absolute; BOTTOM: 1em; RIGHT: 1em
+}
+.vjs-caption-settings .vjs-tracksetting {
+	BORDER-BOTTOM: medium none; BORDER-LEFT: medium none; PADDING-BOTTOM: 3px; MARGIN: 5px; MIN-HEIGHT: 40px; PADDING-LEFT: 3px; PADDING-RIGHT: 3px; BORDER-TOP: medium none; BORDER-RIGHT: medium none; PADDING-TOP: 3px
+}
+.vjs-caption-settings .vjs-tracksetting LABEL {
+	WIDTH: 100px; DISPLAY: block; MARGIN-BOTTOM: 5px
+}
+.vjs-caption-settings .vjs-tracksetting LEGEND {
+	WIDTH: 100px; DISPLAY: block; MARGIN-BOTTOM: 5px
+}
+.vjs-caption-settings .vjs-tracksetting SPAN {
+	DISPLAY: inline; FLOAT: right; MARGIN-LEFT: 5px; VERTICAL-ALIGN: top
+}
+.vjs-caption-settings .vjs-tracksetting > DIV {
+	MIN-HEIGHT: 20px; MARGIN-BOTTOM: 5px
+}
+.vjs-caption-settings LABEL > INPUT {
+	MARGIN-RIGHT: 10px
+}
+.vjs-caption-settings FIELDSET {
+	MARGIN-TOP: 1em; MARGIN-LEFT: 0.5em
+}
+.vjs-caption-settings FIELDSET .vjs-label {
+	CLIP: rect(1px 1px 1px 1px); BORDER-BOTTOM: 0px; POSITION: absolute; BORDER-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 1px; PADDING-RIGHT: 0px; HEIGHT: 1px; OVERFLOW: hidden; BORDER-TOP: 0px; BORDER-RIGHT: 0px; PADDING-TOP: 0px
+}
+.vjs-caption-settings INPUT[type='button'] {
+	WIDTH: 40px; HEIGHT: 40px
+}
+.video-js .vjs-modal-dialog {
+	
+}
+.vjs-modal-dialog .vjs-modal-dialog-content {
+	Z-INDEX: 1; PADDING-BOTTOM: 20px; LINE-HEIGHT: 1.5; PADDING-LEFT: 24px; PADDING-RIGHT: 24px; FONT-SIZE: 1.2em; PADDING-TOP: 20px
+}

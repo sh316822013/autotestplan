@@ -1,0 +1,21 @@
+.Button {
+	BACKGROUND: #cccccc
+}
+TABLE.MetafuseComboBox TD.ArrowCell {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+TABLE.MetafuseComboBox TD.ArrowCell_Active {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+DIV.AccordionDiv {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+TH.DashboardBox {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+DIV.InfoDiv {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
+.MenuItemHover TD {
+	BACKGROUND: none transparent scroll repeat 0% 0%
+}
